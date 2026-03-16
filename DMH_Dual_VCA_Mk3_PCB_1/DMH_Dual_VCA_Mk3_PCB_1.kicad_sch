@@ -1,0 +1,654 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
+	(paper "A4")
+	(title_block
+		(rev "1")
+		(company "DMH Instruments")
+		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 50.8 140.97) (xy 63.5 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b435a09-f8f3-43e9-86f7-b34f99771b2f")
+	)
+	(wire
+		(pts
+			(xy 50.8 135.89) (xy 63.5 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ba9c8d3-6a4d-4dcd-be78-649b2efeef64")
+	)
+	(wire
+		(pts
+			(xy 50.8 146.05) (xy 63.5 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aef010f-d43d-4e35-b562-04efe12bbbe3")
+	)
+	(wire
+		(pts
+			(xy 50.8 125.73) (xy 63.5 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f7892b5-c869-4cdb-86ed-1a3c723a6826")
+	)
+	(wire
+		(pts
+			(xy 50.8 62.23) (xy 63.5 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3491dfa6-ff1d-47ef-828c-9ad85a9beb30")
+	)
+	(wire
+		(pts
+			(xy 50.8 82.55) (xy 63.5 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f80389b-bfff-442c-9bc6-ecbf9de9dbf0")
+	)
+	(wire
+		(pts
+			(xy 50.8 130.81) (xy 63.5 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8811e99f-2636-40f5-8aaa-5b2d5744fb29")
+	)
+	(wire
+		(pts
+			(xy 50.8 120.65) (xy 63.5 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8db5c9be-e5f8-4b5e-aaa4-56a646aafade")
+	)
+	(wire
+		(pts
+			(xy 50.8 72.39) (xy 63.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c7196d4-d95e-49c3-854a-7536ea6043bc")
+	)
+	(wire
+		(pts
+			(xy 50.8 57.15) (xy 63.5 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc81f8e7-5dbf-4128-9df2-6265282a141c")
+	)
+	(wire
+		(pts
+			(xy 50.8 67.31) (xy 63.5 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d11689bd-81fd-4bda-9288-5562cdf98610")
+	)
+	(wire
+		(pts
+			(xy 50.8 77.47) (xy 63.5 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3b346f3-6b32-4f9f-a5b6-8a2b8c3d7726")
+	)
+	(sheet
+		(at 257.81 138.43)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
+		(property "Sheetname" "Power"
+			(at 257.81 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 257.81 164.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 118.11)
+		(size 50.8 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7915b580-c9b0-4472-ab9c-d9fb99b1a92f")
+		(property "Sheetname" "Main VCA B"
+			(at 63.5 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
+			(at 63.5 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CV 1 B Input" input
+			(at 63.5 130.81 180)
+			(uuid "6cac8ff8-7705-4901-b56d-ee3e53572ebe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV 2 B Input" input
+			(at 63.5 140.97 180)
+			(uuid "6f76309e-63f3-418a-a1b7-909e22303cf2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Input B" input
+			(at 63.5 120.65 180)
+			(uuid "2f59276e-9d62-4848-8a97-d032a9319958")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Output B" output
+			(at 114.3 133.35 0)
+			(uuid "2dec7a26-5e38-4644-bb5e-87b15fedeb3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 1 B Pot" input
+			(at 63.5 135.89 180)
+			(uuid "39ecad29-b510-4810-836c-d8dadb822d52")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV 2 B Pot" input
+			(at 63.5 146.05 180)
+			(uuid "b8a2790d-2bc5-48df-a0f7-fb307d324973")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Offset B Pot" input
+			(at 63.5 125.73 180)
+			(uuid "05516ebd-e985-4cb8-8f34-985864f2ed91")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 54.61)
+		(size 50.8 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
+		(property "Sheetname" "Main VCA A"
+			(at 63.5 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Circuit_A.kicad_sch"
+			(at 63.5 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CV 1 A Input" input
+			(at 63.5 67.31 180)
+			(uuid "89ec80bc-ac70-4ecd-84d6-8e74e7942551")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV 2 A Input" input
+			(at 63.5 77.47 180)
+			(uuid "86a5c6bb-bfe1-4212-9ea8-00217a2af005")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Input A" input
+			(at 63.5 57.15 180)
+			(uuid "84f10de8-87eb-4579-91b9-925fbcf030fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Output A" output
+			(at 114.3 69.85 0)
+			(uuid "33089191-6823-4a8c-9c8f-1f3781aa5eff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 1 A Pot" input
+			(at 63.5 72.39 180)
+			(uuid "94020e44-e5b5-40c2-9b15-3533fd7e7559")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV 2 A Pot" input
+			(at 63.5 82.55 180)
+			(uuid "17057fc2-48ee-4be0-8441-40fdd59b7e6b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Offset A Pot" input
+			(at 63.5 62.23 180)
+			(uuid "64bd53a8-97be-42b3-a1ff-ae1991314518")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 63.5)
+		(size 50.8 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ee005da-7ca8-4d1e-92f5-43ab10d67fe9")
+		(property "Sheetname" "2nd VCA"
+			(at 139.7 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2nc_VCA.kicad_sch"
+			(at 139.7 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 38.1)
+		(size 25.4 114.3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
+		(property "Sheetname" "Inputs and Outputs"
+			(at 25.4 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
+			(at 25.4 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CV 2 A Jack" output
+			(at 50.8 77.47 0)
+			(uuid "0876cba7-f5cc-475c-ab22-ceae04ecc34b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 1 A Jack" output
+			(at 50.8 67.31 0)
+			(uuid "7fb6e4db-af9a-4676-b84c-b579f03ead3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 2 A Pot" output
+			(at 50.8 82.55 0)
+			(uuid "36af97bd-604d-42f6-a3f1-07e91d753459")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 1 A Pot" output
+			(at 50.8 72.39 0)
+			(uuid "cbae3b18-b480-4ac1-b949-d4ea23dd4b8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Input B Jack" output
+			(at 50.8 120.65 0)
+			(uuid "d6501641-ec55-465c-893b-68fd23147e67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output B Jack" input
+			(at 50.8 113.03 0)
+			(uuid "68ea9cbf-ef7a-46f3-8221-b78877bb776e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output A Jack" input
+			(at 50.8 49.53 0)
+			(uuid "f7594608-d5fc-41b1-8d8b-cf78766579d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Input A Jack" output
+			(at 50.8 57.15 0)
+			(uuid "d39c7558-17c9-40ea-8156-06055b5768fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 1 B Jack" output
+			(at 50.8 130.81 0)
+			(uuid "74dddd83-c036-43e7-9cac-2a1c249e18fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 2 B Jack" output
+			(at 50.8 140.97 0)
+			(uuid "0d69908c-1a5d-4f43-ae65-0cf6dfcc81fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 1 B Pot" output
+			(at 50.8 135.89 0)
+			(uuid "7f57366f-1abc-4ab5-ac18-1cd5b7f470b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV 2 B Pot" output
+			(at 50.8 146.05 0)
+			(uuid "8c6e1705-a94c-4ea0-9123-ae4e567f4e85")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Offset B Pot" output
+			(at 50.8 125.73 0)
+			(uuid "25294123-79ce-4328-9ac0-6b6dec4ddfbc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Offset A Pot" output
+			(at 50.8 62.23 0)
+			(uuid "b1072b35-f793-44bc-9b81-f3d6cee013ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV P{slash}T Jack" output
+			(at 50.8 99.06 0)
+			(uuid "0242144f-770b-4ae9-9d9a-8f39a048925a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV P{slash}T Pot" output
+			(at 50.8 104.14 0)
+			(uuid "13507bfa-fb32-4a40-afa6-965cdb6828d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
