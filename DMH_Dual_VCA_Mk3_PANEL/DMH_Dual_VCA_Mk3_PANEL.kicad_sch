@@ -1837,7 +1837,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pan/Trem"
+		(property "Value" "Mode"
 			(at 154.94 152.4 0)
 			(effects
 				(font
@@ -2250,7 +2250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_RD901F"
 			(at 127 153.67 0)
 			(effects
 				(font

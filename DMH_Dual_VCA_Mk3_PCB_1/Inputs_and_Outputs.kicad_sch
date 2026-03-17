@@ -711,155 +711,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:ZPDxx"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "ZPDxx"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://diotec.com/tl_files/diotec/files/pdf/datasheets/zpd1"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "500mW Zener Diode, DO-35"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "zener diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "D*DO?35*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "ZPDxx_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "ZPDxx_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Jumper:Jumper_3_Bridged12"
 			(pin_names
 				(offset 0)
@@ -1742,6 +1593,142 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+VDC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+VDC"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+VDC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+VDC_0_1"
+				(polyline
+					(pts
+						(xy -1.143 3.175) (xy 1.143 3.175)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 3.175)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.032) (xy 0 4.318)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+VDC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -1999,12 +1986,6 @@
 		(uuid "591903f6-6e23-4bc2-adf3-487249bbf8ec")
 	)
 	(junction
-		(at 69.85 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b04e609-d604-4204-be1a-69689048d3d1")
-	)
-	(junction
 		(at 38.1 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2246,16 +2227,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 260.35) (xy 86.36 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e56aef0-4faf-4268-a935-a07e3d5d6290")
-	)
-	(wire
-		(pts
 			(xy 147.32 81.28) (xy 165.1 81.28)
 		)
 		(stroke
@@ -2353,16 +2324,6 @@
 			(type default)
 		)
 		(uuid "370ac517-5416-4dae-a4e9-20c254a9fc48")
-	)
-	(wire
-		(pts
-			(xy 86.36 259.08) (xy 83.82 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b1a5409-0dd5-4882-9725-b197083415fe")
 	)
 	(wire
 		(pts
@@ -2566,16 +2527,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 248.92) (xy 69.85 250.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e169f33-82a2-4aed-a497-425ea79c84fb")
-	)
-	(wire
-		(pts
 			(xy 30.48 152.4) (xy 63.5 152.4)
 		)
 		(stroke
@@ -2593,16 +2544,6 @@
 			(type default)
 		)
 		(uuid "6000e6dd-e202-428a-9b54-fef0bedd2641")
-	)
-	(wire
-		(pts
-			(xy 69.85 259.08) (xy 76.2 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60b6d1c9-0305-407f-b5d8-370cdae65731")
 	)
 	(wire
 		(pts
@@ -3226,16 +3167,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 257.81) (xy 69.85 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da5b1d7f-0d4c-4f8a-aea0-3b7d25a2cf40")
-	)
-	(wire
-		(pts
 			(xy 30.48 78.74) (xy 43.18 78.74)
 		)
 		(stroke
@@ -3413,6 +3344,16 @@
 			(type default)
 		)
 		(uuid "eab3e67d-87e7-4a35-8a0e-9c6782e1e9e9")
+	)
+	(wire
+		(pts
+			(xy 69.85 254) (xy 69.85 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eae4b494-32a2-4e5a-afa1-04db68dd2881")
 	)
 	(wire
 		(pts
@@ -3862,72 +3803,6 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 69.85 248.92 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ceb17a3-1ff5-4125-a8ee-9d3f8153162d")
-		(property "Reference" "#PWR033"
-			(at 69.85 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 69.85 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 69.85 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 69.85 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 69.85 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5ade5a01-4e22-4dae-af54-cda6217f2c9c")
-		)
-		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
 		(at 114.3 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4053,6 +3928,72 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+VDC")
+		(at 69.85 254 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21661c50-2757-4e74-94a1-0e7507b92fb5")
+		(property "Reference" "#PWR033"
+			(at 69.85 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 69.85 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+			(at 69.85 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd722faa-de00-4810-9eea-681bc268963b")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -4787,7 +4728,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "18k"
 			(at 116.84 168.9099 0)
 			(effects
 				(font
@@ -5555,71 +5496,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 86.36 260.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "926bee03-28f1-4a8a-b168-353c42142364")
-		(property "Reference" "#PWR035"
-			(at 86.36 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 86.36 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "98caf9ea-f39c-48b7-a8b7-6a44f7fa2c6d")
-		)
-		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 114.3 34.29 0)
 		(unit 1)
@@ -5686,74 +5562,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:ZPDxx")
-		(at 80.01 259.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "969131ef-5d62-4415-ab51-52e0c7108662")
-		(property "Reference" "D3"
-			(at 80.01 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ZPD5V1"
-			(at 80.01 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 80.01 263.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://diotec.com/tl_files/diotec/files/pdf/datasheets/zpd1"
-			(at 80.01 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "500mW Zener Diode, DO-35"
-			(at 80.01 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "db9b5c87-4e5b-47fa-bf43-377f17b8d3b2")
-		)
-		(pin "2"
-			(uuid "87ecb9ad-8e02-406f-af0a-6ae96984b197")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 114.3 40.64 180)
 		(unit 1)
@@ -5772,7 +5580,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "18k"
 			(at 116.84 41.9099 0)
 			(effects
 				(font
@@ -6147,76 +5955,6 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
 					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 69.85 254 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "df879f79-2645-4d41-bacb-e47679834c64")
-		(property "Reference" "R2"
-			(at 67.31 252.7299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4k7"
-			(at 67.31 255.2699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 70.866 253.746 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 69.85 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 69.85 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a523ef38-ff0f-4022-bb7e-417b04fd999d")
-		)
-		(pin "2"
-			(uuid "4fa4502f-6dc8-464f-8162-7bdd91d1f359")
-		)
-		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R2")
 					(unit 1)
 				)
 			)
