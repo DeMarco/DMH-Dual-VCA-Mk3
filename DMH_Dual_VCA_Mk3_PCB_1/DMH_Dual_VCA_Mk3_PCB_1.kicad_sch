@@ -12,7 +12,7 @@
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 50.8 140.97) (xy 63.5 140.97)
+			(xy 50.8 144.78) (xy 63.5 144.78)
 		)
 		(stroke
 			(width 0)
@@ -22,7 +22,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 135.89) (xy 63.5 135.89)
+			(xy 50.8 139.7) (xy 63.5 139.7)
 		)
 		(stroke
 			(width 0)
@@ -32,7 +32,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 146.05) (xy 63.5 146.05)
+			(xy 50.8 105.41) (xy 139.7 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e29c551-4410-4771-9383-1e8fc4f3891d")
+	)
+	(wire
+		(pts
+			(xy 50.8 149.86) (xy 63.5 149.86)
 		)
 		(stroke
 			(width 0)
@@ -42,7 +52,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 125.73) (xy 63.5 125.73)
+			(xy 50.8 97.79) (xy 139.7 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27eaed50-24f2-441d-b5c7-474ba0396e58")
+	)
+	(wire
+		(pts
+			(xy 50.8 129.54) (xy 63.5 129.54)
 		)
 		(stroke
 			(width 0)
@@ -52,7 +72,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 62.23) (xy 63.5 62.23)
+			(xy 50.8 58.42) (xy 63.5 58.42)
 		)
 		(stroke
 			(width 0)
@@ -62,7 +82,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 82.55) (xy 63.5 82.55)
+			(xy 50.8 78.74) (xy 63.5 78.74)
 		)
 		(stroke
 			(width 0)
@@ -72,7 +92,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 130.81) (xy 63.5 130.81)
+			(xy 50.8 101.6) (xy 139.7 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d7b0511-ef59-48a7-b2de-b7ac726effcc")
+	)
+	(wire
+		(pts
+			(xy 50.8 134.62) (xy 63.5 134.62)
 		)
 		(stroke
 			(width 0)
@@ -82,7 +112,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 120.65) (xy 63.5 120.65)
+			(xy 50.8 124.46) (xy 63.5 124.46)
 		)
 		(stroke
 			(width 0)
@@ -92,7 +122,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 72.39) (xy 63.5 72.39)
+			(xy 50.8 68.58) (xy 63.5 68.58)
 		)
 		(stroke
 			(width 0)
@@ -102,7 +132,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 57.15) (xy 63.5 57.15)
+			(xy 114.3 137.16) (xy 139.7 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6d37ca1-b36c-49e5-baaf-ecad9af47175")
+	)
+	(wire
+		(pts
+			(xy 50.8 53.34) (xy 63.5 53.34)
 		)
 		(stroke
 			(width 0)
@@ -112,7 +152,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 67.31) (xy 63.5 67.31)
+			(xy 50.8 63.5) (xy 63.5 63.5)
 		)
 		(stroke
 			(width 0)
@@ -122,7 +162,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 77.47) (xy 63.5 77.47)
+			(xy 114.3 66.04) (xy 139.7 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e19c1daa-1af2-49f1-8ee8-91aeab25aec8")
+	)
+	(wire
+		(pts
+			(xy 50.8 73.66) (xy 63.5 73.66)
 		)
 		(stroke
 			(width 0)
@@ -174,7 +224,50 @@
 		)
 	)
 	(sheet
-		(at 63.5 118.11)
+		(at 203.2 63.5)
+		(size 38.1 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5bf0444b-aa40-49ef-a830-0e3569577230")
+		(property "Sheetname" "Clipping"
+			(at 203.2 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Clipping.kicad_sch"
+			(at 203.2 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 121.92)
 		(size 50.8 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -190,7 +283,7 @@
 		)
 		(uuid "7915b580-c9b0-4472-ab9c-d9fb99b1a92f")
 		(property "Sheetname" "Main VCA B"
-			(at 63.5 117.3984 0)
+			(at 63.5 121.2084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -199,7 +292,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
-			(at 63.5 149.1746 0)
+			(at 63.5 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -209,7 +302,7 @@
 			)
 		)
 		(pin "CV 1 B Input" input
-			(at 63.5 130.81 180)
+			(at 63.5 134.62 180)
 			(uuid "6cac8ff8-7705-4901-b56d-ee3e53572ebe")
 			(effects
 				(font
@@ -219,7 +312,7 @@
 			)
 		)
 		(pin "CV 2 B Input" input
-			(at 63.5 140.97 180)
+			(at 63.5 144.78 180)
 			(uuid "6f76309e-63f3-418a-a1b7-909e22303cf2")
 			(effects
 				(font
@@ -229,7 +322,7 @@
 			)
 		)
 		(pin "Input B" input
-			(at 63.5 120.65 180)
+			(at 63.5 124.46 180)
 			(uuid "2f59276e-9d62-4848-8a97-d032a9319958")
 			(effects
 				(font
@@ -239,7 +332,7 @@
 			)
 		)
 		(pin "Output B" output
-			(at 114.3 133.35 0)
+			(at 114.3 137.16 0)
 			(uuid "2dec7a26-5e38-4644-bb5e-87b15fedeb3c")
 			(effects
 				(font
@@ -249,7 +342,7 @@
 			)
 		)
 		(pin "CV 1 B Pot" input
-			(at 63.5 135.89 180)
+			(at 63.5 139.7 180)
 			(uuid "39ecad29-b510-4810-836c-d8dadb822d52")
 			(effects
 				(font
@@ -259,7 +352,7 @@
 			)
 		)
 		(pin "CV 2 B Pot" input
-			(at 63.5 146.05 180)
+			(at 63.5 149.86 180)
 			(uuid "b8a2790d-2bc5-48df-a0f7-fb307d324973")
 			(effects
 				(font
@@ -269,7 +362,7 @@
 			)
 		)
 		(pin "Offset B Pot" input
-			(at 63.5 125.73 180)
+			(at 63.5 129.54 180)
 			(uuid "05516ebd-e985-4cb8-8f34-985864f2ed91")
 			(effects
 				(font
@@ -287,7 +380,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 54.61)
+		(at 63.5 50.8)
 		(size 50.8 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -303,7 +396,7 @@
 		)
 		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
 		(property "Sheetname" "Main VCA A"
-			(at 63.5 53.8984 0)
+			(at 63.5 50.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -312,7 +405,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_A.kicad_sch"
-			(at 63.5 85.6746 0)
+			(at 63.5 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -322,7 +415,7 @@
 			)
 		)
 		(pin "CV 1 A Input" input
-			(at 63.5 67.31 180)
+			(at 63.5 63.5 180)
 			(uuid "89ec80bc-ac70-4ecd-84d6-8e74e7942551")
 			(effects
 				(font
@@ -332,7 +425,7 @@
 			)
 		)
 		(pin "CV 2 A Input" input
-			(at 63.5 77.47 180)
+			(at 63.5 73.66 180)
 			(uuid "86a5c6bb-bfe1-4212-9ea8-00217a2af005")
 			(effects
 				(font
@@ -342,7 +435,7 @@
 			)
 		)
 		(pin "Input A" input
-			(at 63.5 57.15 180)
+			(at 63.5 53.34 180)
 			(uuid "84f10de8-87eb-4579-91b9-925fbcf030fa")
 			(effects
 				(font
@@ -352,7 +445,7 @@
 			)
 		)
 		(pin "Output A" output
-			(at 114.3 69.85 0)
+			(at 114.3 66.04 0)
 			(uuid "33089191-6823-4a8c-9c8f-1f3781aa5eff")
 			(effects
 				(font
@@ -362,7 +455,7 @@
 			)
 		)
 		(pin "CV 1 A Pot" input
-			(at 63.5 72.39 180)
+			(at 63.5 68.58 180)
 			(uuid "94020e44-e5b5-40c2-9b15-3533fd7e7559")
 			(effects
 				(font
@@ -372,7 +465,7 @@
 			)
 		)
 		(pin "CV 2 A Pot" input
-			(at 63.5 82.55 180)
+			(at 63.5 78.74 180)
 			(uuid "17057fc2-48ee-4be0-8441-40fdd59b7e6b")
 			(effects
 				(font
@@ -382,7 +475,7 @@
 			)
 		)
 		(pin "Offset A Pot" input
-			(at 63.5 62.23 180)
+			(at 63.5 58.42 180)
 			(uuid "64bd53a8-97be-42b3-a1ff-ae1991314518")
 			(effects
 				(font
@@ -400,8 +493,8 @@
 		)
 	)
 	(sheet
-		(at 139.7 63.5)
-		(size 50.8 76.2)
+		(at 139.7 50.8)
+		(size 50.8 101.6)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -416,7 +509,7 @@
 		)
 		(uuid "8ee005da-7ca8-4d1e-92f5-43ab10d67fe9")
 		(property "Sheetname" "2nd VCA"
-			(at 139.7 62.7884 0)
+			(at 139.7 50.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -425,13 +518,83 @@
 			)
 		)
 		(property "Sheetfile" "2nc_VCA.kicad_sch"
-			(at 139.7 140.2846 0)
+			(at 139.7 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 				(hide yes)
+			)
+		)
+		(pin "CV PT Input" input
+			(at 139.7 97.79 180)
+			(uuid "8c36e223-0c97-4104-bf7e-b58abd4201b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV PT Pot G1" input
+			(at 139.7 101.6 180)
+			(uuid "a1292215-b946-48ff-b0e6-6c3be68d62ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV PT Pot G2" input
+			(at 139.7 105.41 180)
+			(uuid "cae1fb47-e6c3-4d64-8860-b06df803fa58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Input A" input
+			(at 139.7 66.04 180)
+			(uuid "709e43fd-f5b7-4519-9215-cf84f6fbbf22")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Input B" input
+			(at 139.7 137.16 180)
+			(uuid "928b918c-9873-419d-a132-83b70fa2dc81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Output A" output
+			(at 190.5 69.85 0)
+			(uuid "07eaf0ef-e2ad-4731-83bc-c226a1280165")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output B" output
+			(at 190.5 133.35 0)
+			(uuid "160b3279-337a-446b-958e-41310296461c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -444,7 +607,7 @@
 	)
 	(sheet
 		(at 25.4 38.1)
-		(size 25.4 114.3)
+		(size 25.4 127)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -468,7 +631,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
-			(at 25.4 152.9846 0)
+			(at 25.4 165.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -478,7 +641,7 @@
 			)
 		)
 		(pin "CV 2 A Jack" output
-			(at 50.8 77.47 0)
+			(at 50.8 73.66 0)
 			(uuid "0876cba7-f5cc-475c-ab22-ceae04ecc34b")
 			(effects
 				(font
@@ -488,7 +651,7 @@
 			)
 		)
 		(pin "CV 1 A Jack" output
-			(at 50.8 67.31 0)
+			(at 50.8 63.5 0)
 			(uuid "7fb6e4db-af9a-4676-b84c-b579f03ead3c")
 			(effects
 				(font
@@ -498,7 +661,7 @@
 			)
 		)
 		(pin "CV 2 A Pot" output
-			(at 50.8 82.55 0)
+			(at 50.8 78.74 0)
 			(uuid "36af97bd-604d-42f6-a3f1-07e91d753459")
 			(effects
 				(font
@@ -508,7 +671,7 @@
 			)
 		)
 		(pin "CV 1 A Pot" output
-			(at 50.8 72.39 0)
+			(at 50.8 68.58 0)
 			(uuid "cbae3b18-b480-4ac1-b949-d4ea23dd4b8b")
 			(effects
 				(font
@@ -518,7 +681,7 @@
 			)
 		)
 		(pin "Input B Jack" output
-			(at 50.8 120.65 0)
+			(at 50.8 124.46 0)
 			(uuid "d6501641-ec55-465c-893b-68fd23147e67")
 			(effects
 				(font
@@ -528,7 +691,7 @@
 			)
 		)
 		(pin "Output B Jack" input
-			(at 50.8 113.03 0)
+			(at 50.8 160.02 0)
 			(uuid "68ea9cbf-ef7a-46f3-8221-b78877bb776e")
 			(effects
 				(font
@@ -538,7 +701,7 @@
 			)
 		)
 		(pin "Output A Jack" input
-			(at 50.8 49.53 0)
+			(at 50.8 43.18 0)
 			(uuid "f7594608-d5fc-41b1-8d8b-cf78766579d3")
 			(effects
 				(font
@@ -548,7 +711,7 @@
 			)
 		)
 		(pin "Input A Jack" output
-			(at 50.8 57.15 0)
+			(at 50.8 53.34 0)
 			(uuid "d39c7558-17c9-40ea-8156-06055b5768fe")
 			(effects
 				(font
@@ -558,7 +721,7 @@
 			)
 		)
 		(pin "CV 1 B Jack" output
-			(at 50.8 130.81 0)
+			(at 50.8 134.62 0)
 			(uuid "74dddd83-c036-43e7-9cac-2a1c249e18fe")
 			(effects
 				(font
@@ -568,7 +731,7 @@
 			)
 		)
 		(pin "CV 2 B Jack" output
-			(at 50.8 140.97 0)
+			(at 50.8 144.78 0)
 			(uuid "0d69908c-1a5d-4f43-ae65-0cf6dfcc81fa")
 			(effects
 				(font
@@ -578,7 +741,7 @@
 			)
 		)
 		(pin "CV 1 B Pot" output
-			(at 50.8 135.89 0)
+			(at 50.8 139.7 0)
 			(uuid "7f57366f-1abc-4ab5-ac18-1cd5b7f470b1")
 			(effects
 				(font
@@ -588,7 +751,7 @@
 			)
 		)
 		(pin "CV 2 B Pot" output
-			(at 50.8 146.05 0)
+			(at 50.8 149.86 0)
 			(uuid "8c6e1705-a94c-4ea0-9123-ae4e567f4e85")
 			(effects
 				(font
@@ -598,7 +761,7 @@
 			)
 		)
 		(pin "Offset B Pot" output
-			(at 50.8 125.73 0)
+			(at 50.8 129.54 0)
 			(uuid "25294123-79ce-4328-9ac0-6b6dec4ddfbc")
 			(effects
 				(font
@@ -608,7 +771,7 @@
 			)
 		)
 		(pin "Offset A Pot" output
-			(at 50.8 62.23 0)
+			(at 50.8 58.42 0)
 			(uuid "b1072b35-f793-44bc-9b81-f3d6cee013ce")
 			(effects
 				(font
@@ -617,8 +780,8 @@
 				(justify right)
 			)
 		)
-		(pin "CV P{slash}T Jack" output
-			(at 50.8 99.06 0)
+		(pin "CV PT In Jack" output
+			(at 50.8 97.79 0)
 			(uuid "0242144f-770b-4ae9-9d9a-8f39a048925a")
 			(effects
 				(font
@@ -627,9 +790,19 @@
 				(justify right)
 			)
 		)
-		(pin "CV P{slash}T Pot" output
-			(at 50.8 104.14 0)
+		(pin "CV PT Pot G1" output
+			(at 50.8 101.6 0)
 			(uuid "13507bfa-fb32-4a40-afa6-965cdb6828d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV PT Pot G2" output
+			(at 50.8 105.41 0)
+			(uuid "6ada3c8b-afc5-4a07-a759-1b1982313573")
 			(effects
 				(font
 					(size 1.27 1.27)

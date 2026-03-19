@@ -1832,16 +1832,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 50.8) (xy 266.7 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cd81c42-40ae-4398-948f-1a4a3d4cb1f0")
-	)
-	(wire
-		(pts
 			(xy 58.42 86.36) (xy 62.23 86.36)
 		)
 		(stroke
@@ -1882,7 +1872,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 50.8) (xy 250.19 50.8)
+			(xy 246.38 50.8) (xy 266.7 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2526,82 +2516,6 @@
 			(justify right)
 		)
 		(uuid "f670fe19-f655-46c4-a152-1c2bcc71a02b")
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 254 50.8 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "030e03df-7c7e-4f37-8734-b9a0cc76e496")
-		(property "Reference" "R29"
-			(at 254 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 254 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 253.746 51.816 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" ""
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9ac9f4d9-07bd-40f4-bc44-cce07172b925")
-		)
-		(pin "2"
-			(uuid "398bf6fe-9604-4dfe-a4b7-3024695a2d5a")
-		)
-		(instances
-			(project "DMH_Transistor_VCA_PCB"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7915b580-c9b0-4472-ab9c-d9fb99b1a92f"
-					(reference "R29")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Device:R_US")

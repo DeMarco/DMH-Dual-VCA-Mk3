@@ -325,6 +325,226 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R_Potentiometer_Dual_Separate"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RV"
+				(at -4.445 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_Potentiometer_Dual_Separate"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Dual potentiometer, separate units"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "resistor variable"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Potentiometer*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Potentiometer_Dual_Separate_0_1"
+				(rectangle
+					(start 1.016 2.54)
+					(end -1.016 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.143 0) (xy 2.286 0.508) (xy 2.286 -0.508) (xy 1.143 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.524 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Potentiometer_Dual_Separate_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "R_Potentiometer_Dual_Separate_2_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Potentiometer_US"
 			(pin_names
 				(offset 1.016)
@@ -1856,6 +2076,18 @@
 		(uuid c654fad1-32ce-473a-8b23-579bfc2ae69e)
 	)
 	(rectangle
+		(start 146.05 152.4)
+		(end 190.5 195.58)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ce97a164-5a81-486f-be22-63667838fbd6)
+	)
+	(rectangle
 		(start 43.18 199.39)
 		(end 88.9 280.67)
 		(stroke
@@ -1908,6 +2140,16 @@
 			)
 		)
 		(uuid "c22d28ef-022e-4e5a-aff4-6328ad7db87a")
+	)
+	(text "Pots PCB"
+		(exclude_from_sim no)
+		(at 151.13 194.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f718a76c-2e34-4cc9-b84b-5d88362143e6")
 	)
 	(text "Pots PCB"
 		(exclude_from_sim no)
@@ -2167,6 +2409,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 177.8) (xy 171.45 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0537d125-c725-465a-a36a-52ec23d088ce")
+	)
+	(wire
+		(pts
 			(xy 38.1 264.16) (xy 38.1 278.13)
 		)
 		(stroke
@@ -2204,6 +2456,16 @@
 			(type default)
 		)
 		(uuid "13b47c12-4f7c-45a7-a904-3ca513ba3eeb")
+	)
+	(wire
+		(pts
+			(xy 165.1 181.61) (xy 165.1 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13d920a2-8e93-43aa-8d5b-0b07b3f0a9db")
 	)
 	(wire
 		(pts
@@ -2667,7 +2929,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 273.05) (xy 73.66 273.05)
+			(xy 67.31 273.05) (xy 69.85 273.05)
 		)
 		(stroke
 			(width 0)
@@ -2724,6 +2986,16 @@
 			(type default)
 		)
 		(uuid "85c25655-5b17-4b3b-bbe7-316a7ea535a4")
+	)
+	(wire
+		(pts
+			(xy 165.1 171.45) (xy 165.1 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "869c8159-8d38-4eeb-bee1-976bd63509b8")
 	)
 	(wire
 		(pts
@@ -2787,7 +3059,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 266.7) (xy 73.66 266.7)
+			(xy 63.5 266.7) (xy 69.85 266.7)
 		)
 		(stroke
 			(width 0)
@@ -3486,9 +3758,9 @@
 		)
 		(uuid "094ba624-c474-4def-9761-a1e6673955e7")
 	)
-	(hierarchical_label "CV P{slash}T Pot"
+	(hierarchical_label "CV PT Pot G1"
 		(shape output)
-		(at 73.66 273.05 0)
+		(at 69.85 273.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3563,9 +3835,9 @@
 		)
 		(uuid "31148a32-d5ec-41e9-8278-d240eebf11f9")
 	)
-	(hierarchical_label "CV P{slash}T Jack"
+	(hierarchical_label "CV PT In Jack"
 		(shape output)
-		(at 73.66 266.7 0)
+		(at 69.85 266.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3606,6 +3878,17 @@
 			(justify left)
 		)
 		(uuid "a421a0f8-7267-4dd2-96a8-bd1e35b451a7")
+	)
+	(hierarchical_label "CV PT Pot G2"
+		(shape output)
+		(at 171.45 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d02d77fb-0219-43c8-87ef-6146c47df36a")
 	)
 	(hierarchical_label "Output B Jack"
 		(shape input)
@@ -3797,6 +4080,99 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
 					(reference "#PWR029")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer_Dual_Separate")
+		(at 165.1 177.8 0)
+		(mirror x)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e283127-5fc1-4134-8646-0da1f2eff069")
+		(property "Reference" "RV13"
+			(at 162.56 179.0701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100k"
+			(at 162.56 176.5301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual potentiometer, separate units"
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Pan Amt"
+			(at 151.13 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "6"
+			(uuid "98b9aad3-e091-4744-81d0-99a0931cc4dd")
+		)
+		(pin "5"
+			(uuid "d5013691-9366-4e0f-b987-602ccf81c931")
+		)
+		(pin "4"
+			(uuid "ad299caf-4dfa-437a-a9b1-fbf51e4fefd3")
+		)
+		(pin "1"
+			(uuid "77ac9127-d500-4fdc-ad5c-3509f492773e")
+		)
+		(pin "3"
+			(uuid "0d4f3fa6-84e2-4663-a4e4-6d271db0c821")
+		)
+		(pin "2"
+			(uuid "021e0f23-24ad-4e8c-8aab-0c169507b57e")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
+					(reference "RV13")
+					(unit 2)
 				)
 			)
 		)
@@ -5331,35 +5707,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer_US")
-		(at 63.5 273.05 0)
-		(mirror x)
+		(lib_id "power:+VDC")
+		(at 165.1 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(uuid "7e0b5452-098b-4290-bd9d-384daed3d890")
-		(property "Reference" "RV13"
-			(at 60.96 274.3201 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100k"
-			(at 60.96 271.7801 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SynthStuff:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
-			(at 63.5 273.05 0)
+		(fields_autoplaced yes)
+		(uuid "844eaf72-ddc6-4402-9fa7-240a8c99163d")
+		(property "Reference" "#PWR059"
+			(at 165.1 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5367,8 +5725,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 63.5 273.05 0)
+		(property "Value" "+5V"
+			(at 165.1 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5376,8 +5742,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Potentiometer, US symbol"
-			(at 63.5 273.05 0)
+		(property "Datasheet" ""
+			(at 165.1 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5385,30 +5751,22 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Pan Amt"
-			(at 51.054 273.05 0)
+		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+			(at 165.1 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-					(italic yes)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "bc0ff4db-21bf-493d-9fe5-7d04bfcea82a")
-		)
-		(pin "3"
-			(uuid "dd1044e6-90ec-41e5-a815-5672ede90e0c")
-		)
-		(pin "2"
-			(uuid "fc07ee0e-af36-4637-9d47-eda7135506c6")
+			(uuid "8e4d14e5-c1b5-4f0e-9e1a-b40a943a0ba6")
 		)
 		(instances
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "RV13")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -5556,6 +5914,165 @@
 			(project "DMH_Transistor_VCA_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+VDC")
+		(at 165.1 184.15 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d73fb4d-6d27-41f8-a466-de9a4516f8b6")
+		(property "Reference" "#PWR060"
+			(at 165.1 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5V"
+			(at 165.1 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+			(at 165.1 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42475bc5-f233-4696-be7b-a19e0beb0820")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer_Dual_Separate")
+		(at 63.5 273.05 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a5dc3e83-fcf5-420f-96c4-bbc0ec133987")
+		(property "Reference" "RV13"
+			(at 60.96 274.3201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100k"
+			(at 60.96 271.7801 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual potentiometer, separate units"
+			(at 63.5 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Pan Amt"
+			(at 49.53 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "6"
+			(uuid "98b9aad3-e091-4744-81d0-99a0931cc4dd")
+		)
+		(pin "5"
+			(uuid "d5013691-9366-4e0f-b987-602ccf81c931")
+		)
+		(pin "4"
+			(uuid "ad299caf-4dfa-437a-a9b1-fbf51e4fefd3")
+		)
+		(pin "1"
+			(uuid "77ac9127-d500-4fdc-ad5c-3509f492773e")
+		)
+		(pin "3"
+			(uuid "0d4f3fa6-84e2-4663-a4e4-6d271db0c821")
+		)
+		(pin "2"
+			(uuid "021e0f23-24ad-4e8c-8aab-0c169507b57e")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
+					(reference "RV13")
 					(unit 1)
 				)
 			)
