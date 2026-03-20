@@ -2986,7 +2986,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 252.73) (xy 45.72 269.24)
+			(xy 40.64 252.73) (xy 40.64 269.24)
 		)
 		(stroke
 			(width 0)
@@ -3266,7 +3266,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 252.73) (xy 45.72 252.73)
+			(xy 46.99 252.73) (xy 40.64 252.73)
 		)
 		(stroke
 			(width 0)
@@ -3606,7 +3606,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 269.24) (xy 45.72 269.24)
+			(xy 30.48 269.24) (xy 40.64 269.24)
 		)
 		(stroke
 			(width 0)
@@ -4488,7 +4488,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "0e283127-5fc1-4134-8646-0da1f2eff069")
 		(property "Reference" "RV13"
@@ -5127,7 +5127,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "380d0a8b-b0e2-4e78-b90c-729ab0a31230")
 		(property "Reference" "RV5"
@@ -5917,7 +5917,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "6865f603-ce77-4ce2-acb1-413b2926320a")
 		(property "Reference" "RV6"
@@ -6242,7 +6242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 152.4 215.9 0)
 			(effects
 				(font
@@ -6382,7 +6382,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "844eaf72-ddc6-4402-9fa7-240a8c99163d")
@@ -6595,7 +6595,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d73fb4d-6d27-41f8-a466-de9a4516f8b6")
@@ -6728,7 +6728,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "a5dc3e83-fcf5-420f-96c4-bbc0ec133987")
 		(property "Reference" "RV13"
@@ -6991,7 +6991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -7168,7 +7168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 50.8 252.73 0)
 			(effects
 				(font

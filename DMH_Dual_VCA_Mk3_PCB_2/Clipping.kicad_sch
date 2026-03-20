@@ -2036,7 +2036,7 @@
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "01e9d4fe-3984-4a2a-9cc2-60f363b93742")
 		(property "Reference" "U8"
@@ -2646,7 +2646,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "44deb527-aed5-48ea-abb5-3a3156daa13c")
 		(property "Reference" "U8"
@@ -3234,7 +3234,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "7f423a05-749d-43aa-8af6-0795b970c944")
 		(property "Reference" "U8"
@@ -3486,7 +3486,7 @@
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "97b8a7b9-560b-4146-ae15-a4d90d5e3981")
 		(property "Reference" "U8"
