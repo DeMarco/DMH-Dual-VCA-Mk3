@@ -1689,354 +1689,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SynthStuff:Switch_DPDT_OnOffOn"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 -16.002 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_DPDT_OnOffOn"
-				(at 0 -13.462 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_TE"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "DPDT switch, ON-OFF-ON"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Function" "Function"
-				(at 0 -10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-						(italic yes)
-					)
-				)
-			)
-			(property "ki_keywords" "switch dual-pole double-throw dpdt ON-OFF-ON"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Switch_DPDT_OnOffOn_0_0"
-				(circle
-					(center -2.032 5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.032 -5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -7.62)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Switch_DPDT_OnOffOn_0_1"
-				(polyline
-					(pts
-						(xy -2.54 5.08) (xy 2.54 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -5.08) (xy 2.54 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 7.874) (xy 0 6.096)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.556) (xy 0 4.572)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.016) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.286) (xy 0 -4.064)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 7.62)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Switch_DPDT_OnOffOn_1_1"
-				(rectangle
-					(start -3.175 8.89)
-					(end 3.175 -8.89)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 7.62 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -7.62 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Transistor_BJT:BC548"
 			(pin_names
 				(offset 0)
@@ -2085,6 +1737,24 @@
 				)
 			)
 			(property "Description" "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "NPN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=C 2=B 3=E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5984,6 +5654,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" "NPN"
+			(at 86.36 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 86.36 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "afd3514c-75f8-49a7-834b-d68d22dfe845")
 		)
@@ -6429,6 +6117,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 116.84 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 116.84 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -7702,6 +7408,24 @@
 				)
 			)
 		)
+		(property "Sim.Device" "NPN"
+			(at 116.84 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 116.84 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bcd9b604-98c1-4256-a66e-77bb57db8ecc")
 		)
@@ -7770,6 +7494,24 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92"
+			(at 86.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 86.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
 			(at 86.36 165.1 0)
 			(effects
 				(font
@@ -8428,97 +8170,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SynthStuff:Switch_DPDT_OnOffOn")
-		(at -39.37 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "91316f23-92e2-45b0-ba0b-a2f6253bf9d0")
-		(property "Reference" "SW1"
-			(at -39.37 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_DPDT_OnOffOn"
-			(at -39.37 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_TE"
-			(at -39.37 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at -39.37 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "DPDT switch, ON-OFF-ON"
-			(at -39.37 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" "Clip"
-			(at -39.37 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-					(italic yes)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "a94688b9-b550-4b5e-8a53-9cf416a641a9")
-		)
-		(pin "1"
-			(uuid "84afc108-838c-48ad-bd87-cb09d14dd6d8")
-		)
-		(pin "2"
-			(uuid "fab952e8-632e-4afe-8b2a-160242ed5f40")
-		)
-		(pin "4"
-			(uuid "7ba78dd8-b3c4-42d5-8e72-56048e83e353")
-		)
-		(pin "5"
-			(uuid "2487e9af-5d37-49c2-9487-d4f3e536ac8c")
-		)
-		(pin "6"
-			(uuid "6c224aa0-74b5-49bb-940b-e410c592f3f7")
-		)
-		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/8ee005da-7ca8-4d1e-92f5-43ab10d67fe9"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 152.4 95.25 0)
 		(unit 1)
@@ -8716,28 +8367,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "b64c3731-cd56-435a-8d98-d8e00fe1e793")
+			(uuid "b64c3731-cd56-435a-8d98-d8e00fe1e794")
 		)
 		(pin "3"
-			(uuid "a370fb42-5bef-4940-b66f-5b9a17cda642")
+			(uuid "a370fb42-5bef-4940-b66f-5b9a17cda643")
 		)
 		(pin "7"
-			(uuid "5bb694ad-37b8-441c-809b-e03cd9910b03")
+			(uuid "5bb694ad-37b8-441c-809b-e03cd9910b04")
 		)
 		(pin "2"
-			(uuid "7153347d-07c3-4370-9e83-3ee077ff25f7")
+			(uuid "7153347d-07c3-4370-9e83-3ee077ff25f8")
 		)
 		(pin "11"
-			(uuid "904d953d-4311-4d60-ae03-b1fc98e3289f")
+			(uuid "904d953d-4311-4d60-ae03-b1fc98e328a0")
 		)
 		(pin "4"
-			(uuid "22cec1ec-6222-4f8f-a0cc-70d45005bb0d")
+			(uuid "22cec1ec-6222-4f8f-a0cc-70d45005bb0e")
 		)
 		(pin "13"
 			(uuid "93474525-8eb5-410e-bd0d-de0163d8eef2")
 		)
 		(pin "9"
-			(uuid "ffd7b8b0-ffda-49b8-9f65-e26f9668a459")
+			(uuid "ffd7b8b0-ffda-49b8-9f65-e26f9668a45a")
 		)
 		(pin "12"
 			(uuid "94807337-5838-4dc3-b872-e2cddd2ab4a4")
@@ -8746,16 +8397,16 @@
 			(uuid "f816e493-82f0-4986-bfc1-cf82f1a5a84a")
 		)
 		(pin "10"
-			(uuid "24bca7f8-d430-4e41-b87f-be764cd25d5a")
+			(uuid "24bca7f8-d430-4e41-b87f-be764cd25d5b")
 		)
 		(pin "1"
-			(uuid "e30d8d3d-96e0-4452-b6ef-ef9a16aa3528")
+			(uuid "e30d8d3d-96e0-4452-b6ef-ef9a16aa3529")
 		)
 		(pin "6"
-			(uuid "74056594-cf30-420a-a602-8a1cf2c7142c")
+			(uuid "74056594-cf30-420a-a602-8a1cf2c7142d")
 		)
 		(pin "5"
-			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba31")
+			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba32")
 		)
 		(instances
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
@@ -9163,28 +8814,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "1083bd40-fe7e-45cb-a67d-6133614ee0b7")
+			(uuid "1083bd40-fe7e-45cb-a67d-6133614ee0b8")
 		)
 		(pin "3"
-			(uuid "2dda84de-137a-4039-9ddb-7970a30c4286")
+			(uuid "2dda84de-137a-4039-9ddb-7970a30c4287")
 		)
 		(pin "2"
-			(uuid "c3b663d2-116a-4b41-89c7-a836f508cfb8")
+			(uuid "c3b663d2-116a-4b41-89c7-a836f508cfb9")
 		)
 		(pin "6"
-			(uuid "6efe200a-57d9-44e9-9f20-554824a691a4")
+			(uuid "6efe200a-57d9-44e9-9f20-554824a691a5")
 		)
 		(pin "7"
-			(uuid "853f4667-14e6-417f-9609-b342b306e132")
+			(uuid "853f4667-14e6-417f-9609-b342b306e133")
 		)
 		(pin "5"
-			(uuid "89195e1c-790d-43ec-a9de-4072aa162a5a")
+			(uuid "89195e1c-790d-43ec-a9de-4072aa162a5b")
 		)
 		(pin "8"
-			(uuid "e8b2a089-94df-4fc3-90bb-acc0857f4a8b")
+			(uuid "e8b2a089-94df-4fc3-90bb-acc0857f4a8c")
 		)
 		(pin "4"
-			(uuid "610254ca-4dd7-4fa3-ac02-99789cb4c01e")
+			(uuid "610254ca-4dd7-4fa3-ac02-99789cb4c01f")
 		)
 		(instances
 			(project ""
@@ -9459,16 +9110,16 @@
 			(uuid "a370fb42-5bef-4940-b66f-5b9a17cda641")
 		)
 		(pin "7"
-			(uuid "5bb694ad-37b8-441c-809b-e03cd9910b04")
+			(uuid "5bb694ad-37b8-441c-809b-e03cd9910b05")
 		)
 		(pin "2"
 			(uuid "7153347d-07c3-4370-9e83-3ee077ff25f6")
 		)
 		(pin "11"
-			(uuid "904d953d-4311-4d60-ae03-b1fc98e328a0")
+			(uuid "904d953d-4311-4d60-ae03-b1fc98e328a1")
 		)
 		(pin "4"
-			(uuid "22cec1ec-6222-4f8f-a0cc-70d45005bb0e")
+			(uuid "22cec1ec-6222-4f8f-a0cc-70d45005bb0f")
 		)
 		(pin "13"
 			(uuid "99ef03e3-70c7-4f65-8460-a82e6b3a0d65")
@@ -9489,10 +9140,10 @@
 			(uuid "e30d8d3d-96e0-4452-b6ef-ef9a16aa3527")
 		)
 		(pin "6"
-			(uuid "74056594-cf30-420a-a602-8a1cf2c7142d")
+			(uuid "74056594-cf30-420a-a602-8a1cf2c7142e")
 		)
 		(pin "5"
-			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba32")
+			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba33")
 		)
 		(instances
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
@@ -10151,46 +9802,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "305397e5-27eb-4348-adc7-61e3d8d3ef95")
+			(uuid "305397e5-27eb-4348-adc7-61e3d8d3ef96")
 		)
 		(pin "6"
-			(uuid "1e684c8f-06cc-49eb-b650-2cf793a90c10")
+			(uuid "1e684c8f-06cc-49eb-b650-2cf793a90c11")
 		)
 		(pin "2"
-			(uuid "ac2396cd-4b57-4867-891c-3c49d6adb6e8")
+			(uuid "ac2396cd-4b57-4867-891c-3c49d6adb6e9")
 		)
 		(pin "5"
-			(uuid "9d0286f2-c3d8-41f5-ab7a-5e02b7c6bb32")
+			(uuid "9d0286f2-c3d8-41f5-ab7a-5e02b7c6bb33")
 		)
 		(pin "12"
-			(uuid "e982e670-8ba7-4cdf-a7d3-be9932b6bde7")
+			(uuid "e982e670-8ba7-4cdf-a7d3-be9932b6bde8")
 		)
 		(pin "4"
-			(uuid "9299dbeb-e262-40df-955c-56e90b5dd79f")
+			(uuid "9299dbeb-e262-40df-955c-56e90b5dd7a0")
 		)
 		(pin "11"
-			(uuid "306fa69b-4700-4de7-966c-e71573dfe537")
+			(uuid "306fa69b-4700-4de7-966c-e71573dfe538")
 		)
 		(pin "3"
-			(uuid "56ac4e71-e5b2-4f5e-aa07-762bbff6ea33")
+			(uuid "56ac4e71-e5b2-4f5e-aa07-762bbff6ea34")
 		)
 		(pin "7"
-			(uuid "a1495957-52a7-4912-9797-b40a59454ff7")
+			(uuid "a1495957-52a7-4912-9797-b40a59454ff8")
 		)
 		(pin "10"
-			(uuid "a7aa7beb-cd10-4a86-a153-b6e1ad4bbbfe")
+			(uuid "a7aa7beb-cd10-4a86-a153-b6e1ad4bbbff")
 		)
 		(pin "9"
-			(uuid "953c833b-5725-4472-9e9f-652060c710b6")
+			(uuid "953c833b-5725-4472-9e9f-652060c710b7")
 		)
 		(pin "8"
-			(uuid "3f4e97f6-83a8-42f5-843b-3bfbd2a1ee41")
+			(uuid "3f4e97f6-83a8-42f5-843b-3bfbd2a1ee42")
 		)
 		(pin "1"
-			(uuid "e01bf8b1-b8bc-4e27-aeac-f78bf31ecbf9")
+			(uuid "e01bf8b1-b8bc-4e27-aeac-f78bf31ecbfa")
 		)
 		(pin "13"
-			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5b")
+			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5c")
 		)
 		(instances
 			(project ""
@@ -10663,46 +10314,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "305397e5-27eb-4348-adc7-61e3d8d3ef95")
+			(uuid "305397e5-27eb-4348-adc7-61e3d8d3ef97")
 		)
 		(pin "6"
-			(uuid "1e684c8f-06cc-49eb-b650-2cf793a90c10")
+			(uuid "1e684c8f-06cc-49eb-b650-2cf793a90c12")
 		)
 		(pin "2"
-			(uuid "ac2396cd-4b57-4867-891c-3c49d6adb6e8")
+			(uuid "ac2396cd-4b57-4867-891c-3c49d6adb6ea")
 		)
 		(pin "5"
-			(uuid "9d0286f2-c3d8-41f5-ab7a-5e02b7c6bb32")
+			(uuid "9d0286f2-c3d8-41f5-ab7a-5e02b7c6bb34")
 		)
 		(pin "12"
-			(uuid "e982e670-8ba7-4cdf-a7d3-be9932b6bde7")
+			(uuid "e982e670-8ba7-4cdf-a7d3-be9932b6bde9")
 		)
 		(pin "4"
-			(uuid "9299dbeb-e262-40df-955c-56e90b5dd79f")
+			(uuid "9299dbeb-e262-40df-955c-56e90b5dd7a1")
 		)
 		(pin "11"
-			(uuid "306fa69b-4700-4de7-966c-e71573dfe537")
+			(uuid "306fa69b-4700-4de7-966c-e71573dfe539")
 		)
 		(pin "3"
-			(uuid "56ac4e71-e5b2-4f5e-aa07-762bbff6ea33")
+			(uuid "56ac4e71-e5b2-4f5e-aa07-762bbff6ea35")
 		)
 		(pin "7"
-			(uuid "a1495957-52a7-4912-9797-b40a59454ff7")
+			(uuid "a1495957-52a7-4912-9797-b40a59454ff9")
 		)
 		(pin "10"
-			(uuid "a7aa7beb-cd10-4a86-a153-b6e1ad4bbbfe")
+			(uuid "a7aa7beb-cd10-4a86-a153-b6e1ad4bbc00")
 		)
 		(pin "9"
-			(uuid "953c833b-5725-4472-9e9f-652060c710b6")
+			(uuid "953c833b-5725-4472-9e9f-652060c710b8")
 		)
 		(pin "8"
-			(uuid "3f4e97f6-83a8-42f5-843b-3bfbd2a1ee41")
+			(uuid "3f4e97f6-83a8-42f5-843b-3bfbd2a1ee43")
 		)
 		(pin "1"
-			(uuid "e01bf8b1-b8bc-4e27-aeac-f78bf31ecbf9")
+			(uuid "e01bf8b1-b8bc-4e27-aeac-f78bf31ecbfb")
 		)
 		(pin "13"
-			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5b")
+			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5d")
 		)
 		(instances
 			(project ""

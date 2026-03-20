@@ -12,6 +12,16 @@
 	(lib_symbols)
 	(wire
 		(pts
+			(xy 247.65 69.85) (xy 247.65 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0294cccd-8118-400f-a4c8-0d01a40ceb88")
+	)
+	(wire
+		(pts
 			(xy 50.8 144.78) (xy 63.5 144.78)
 		)
 		(stroke
@@ -92,6 +102,46 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 43.18) (xy 50.8 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "409a906c-0b5e-4daf-9176-2fda50842aa8")
+	)
+	(wire
+		(pts
+			(xy 247.65 160.02) (xy 50.8 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42420ba5-b6ed-4eba-8604-a7669394b465")
+	)
+	(wire
+		(pts
+			(xy 247.65 133.35) (xy 247.65 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "595b6aba-08c5-4eb5-896a-7f50ec7ae1a3")
+	)
+	(wire
+		(pts
+			(xy 241.3 133.35) (xy 247.65 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c2ceaf1-af2f-47fc-a12c-6a4cd5d21694")
+	)
+	(wire
+		(pts
 			(xy 50.8 101.6) (xy 139.7 101.6)
 		)
 		(stroke
@@ -99,6 +149,16 @@
 			(type default)
 		)
 		(uuid "6d7b0511-ef59-48a7-b2de-b7ac726effcc")
+	)
+	(wire
+		(pts
+			(xy 190.5 69.85) (xy 203.2 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d889bd5-a929-4d9c-aeab-40ab037e9181")
 	)
 	(wire
 		(pts
@@ -129,6 +189,26 @@
 			(type default)
 		)
 		(uuid "9c7196d4-d95e-49c3-854a-7536ea6043bc")
+	)
+	(wire
+		(pts
+			(xy 190.5 133.35) (xy 203.2 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a52bac5a-a23c-4f61-a606-17b4c0a88f2d")
+	)
+	(wire
+		(pts
+			(xy 241.3 69.85) (xy 247.65 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae15466d-18a3-4054-900b-643235d2e26b")
 	)
 	(wire
 		(pts
@@ -256,6 +336,46 @@
 				)
 				(justify left top)
 				(hide yes)
+			)
+		)
+		(pin "Input A" input
+			(at 203.2 69.85 180)
+			(uuid "59219832-37d2-4379-a79f-6e1dd12b2ff7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Input B" input
+			(at 203.2 133.35 180)
+			(uuid "f69d5846-5974-40b4-810f-34f72190e225")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Output A" output
+			(at 241.3 69.85 0)
+			(uuid "6761ddb8-ff64-462b-bdf7-41a290a0f12a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output B" output
+			(at 241.3 133.35 0)
+			(uuid "78175b69-29bf-4409-9bbe-ea6fe95292d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
