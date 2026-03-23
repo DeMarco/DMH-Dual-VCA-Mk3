@@ -1482,6 +1482,354 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Transistor_BJT:BC548"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC548"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "NPN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=C 2=B 3=E"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NPN Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?92*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC548_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BC548_1_1"
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+12V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+12V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+12V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+12V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+12V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+VDC"
 			(power)
 			(pin_numbers
@@ -1613,6 +1961,107 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:-12V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "-12V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"-12V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "-12V_0_0"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "-12V_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy 0.762 1.27) (xy 0 2.54) (xy -0.762 1.27) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 			)
@@ -1904,16 +2353,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 190.5) (xy 101.6 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f6288ec-e895-4c0a-b652-fba105cf59f0")
-	)
-	(wire
-		(pts
 			(xy 139.7 139.7) (xy 144.78 139.7)
 		)
 		(stroke
@@ -2004,7 +2443,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 101.6) (xy 90.17 101.6)
+			(xy 83.82 101.6) (xy 129.54 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2044,7 +2483,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 190.5) (xy 101.6 190.5)
+			(xy 137.16 190.5) (xy 144.78 190.5)
 		)
 		(stroke
 			(width 0)
@@ -2071,6 +2510,16 @@
 			(type default)
 		)
 		(uuid "2ab9f920-09c8-43cb-a50b-e20b9d346011")
+	)
+	(wire
+		(pts
+			(xy 152.4 115.57) (xy 152.4 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ac6d122-747d-44f9-a4d1-7441fb4848b5")
 	)
 	(wire
 		(pts
@@ -2114,6 +2563,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 184.15) (xy 152.4 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35b5d42d-f0b7-4c35-a9c0-687caa82d811")
+	)
+	(wire
+		(pts
 			(xy 114.3 66.04) (xy 101.6 66.04)
 		)
 		(stroke
@@ -2121,16 +2580,6 @@
 			(type default)
 		)
 		(uuid "37078936-97bb-4135-ba86-db259d3abc01")
-	)
-	(wire
-		(pts
-			(xy 97.79 101.6) (xy 101.6 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "390f1d80-84a8-4b77-9516-1920fdc8e417")
 	)
 	(wire
 		(pts
@@ -2161,6 +2610,16 @@
 			(type default)
 		)
 		(uuid "3dd584d7-6833-4064-9711-4c64f7a3d0be")
+	)
+	(wire
+		(pts
+			(xy 152.4 204.47) (xy 152.4 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3df375b1-05f4-478a-9442-170c39070b4e")
 	)
 	(wire
 		(pts
@@ -2264,16 +2723,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 101.6) (xy 101.6 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50453bbd-c74d-4242-ba72-78ceb778f892")
-	)
-	(wire
-		(pts
 			(xy 71.12 152.4) (xy 73.66 152.4)
 		)
 		(stroke
@@ -2284,7 +2733,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 190.5) (xy 90.17 190.5)
+			(xy 83.82 190.5) (xy 129.54 190.5)
 		)
 		(stroke
 			(width 0)
@@ -2414,6 +2863,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 95.25) (xy 152.4 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "689bb127-9cdd-4ace-81a4-b307aeac435a")
+	)
+	(wire
+		(pts
 			(xy 85.09 152.4) (xy 88.9 152.4)
 		)
 		(stroke
@@ -2421,6 +2880,16 @@
 			(type default)
 		)
 		(uuid "6e4be9f7-bc55-4b54-b152-ab20062c9737")
+	)
+	(wire
+		(pts
+			(xy 152.4 86.36) (xy 152.4 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ec8d90d-33c1-4363-9b25-bca6be3fface")
 	)
 	(wire
 		(pts
@@ -2464,6 +2933,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 175.26) (xy 152.4 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c15543c-34e2-4d84-8bbf-f29bbd77408b")
+	)
+	(wire
+		(pts
 			(xy 142.24 127) (xy 139.7 127)
 		)
 		(stroke
@@ -2471,16 +2950,6 @@
 			(type default)
 		)
 		(uuid "7ccbe215-b09a-4535-9915-0208a995dc6f")
-	)
-	(wire
-		(pts
-			(xy 101.6 200.66) (xy 101.6 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "812177f4-c0b7-4bff-9b86-7d185c1cbd91")
 	)
 	(wire
 		(pts
@@ -2571,6 +3040,16 @@
 			(type default)
 		)
 		(uuid "91752128-4442-4f38-b32d-f2a5422c60d2")
+	)
+	(wire
+		(pts
+			(xy 137.16 101.6) (xy 144.78 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "921852e1-3e00-4490-8d96-483f0311c5e7")
 	)
 	(wire
 		(pts
@@ -2764,6 +3243,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 195.58) (xy 152.4 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7d7a327-c98c-4856-b0ac-e5291d261b0b")
+	)
+	(wire
+		(pts
 			(xy 76.2 177.8) (xy 73.66 177.8)
 		)
 		(stroke
@@ -2784,16 +3273,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 111.76) (xy 101.6 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb9c2662-8e34-437f-b663-242234e43f88")
-	)
-	(wire
-		(pts
 			(xy 53.34 88.9) (xy 50.8 88.9)
 		)
 		(stroke
@@ -2811,6 +3290,16 @@
 			(type default)
 		)
 		(uuid "bd1b7c4f-1cec-4e10-9446-cd9a68defe8d")
+	)
+	(wire
+		(pts
+			(xy 152.4 107.95) (xy 152.4 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd44eaa6-8896-450b-b424-c3cf4b8cfc74")
 	)
 	(wire
 		(pts
@@ -3508,6 +3997,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:-12V")
+		(at 152.4 207.01 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04a3a11f-60ab-4693-b075-b95ec723abc1")
+		(property "Reference" "#PWR087"
+			(at 152.4 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-12V"
+			(at 152.4 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12V\""
+			(at 152.4 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00488839-50f0-4103-9838-3300a0a0dadc")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "#PWR087")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:ZPDxx")
 		(at 127 171.45 90)
 		(unit 1)
@@ -3572,6 +4126,100 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
 					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC548")
+		(at 149.86 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d57390b-e2e4-45ca-9a03-43f5b64d2766")
+		(property "Reference" "Q11"
+			(at 154.94 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC548"
+			(at 154.94 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 154.94 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 149.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92"
+			(at 149.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 149.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 149.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8883dbd1-f9d7-45a3-a74d-a82d58e5a1a2")
+		)
+		(pin "1"
+			(uuid "329aeef5-29c7-4261-a4fe-2aca97e5baaa")
+		)
+		(pin "3"
+			(uuid "dc6b7cd2-2b51-489c-a092-84440f5294ce")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "Q11")
 					(unit 1)
 				)
 			)
@@ -4111,7 +4759,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 107.95 90)
+		(at 152.4 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4119,7 +4767,7 @@
 		(dnp no)
 		(uuid "3586a397-5160-417c-a737-d0dff7b84b68")
 		(property "Reference" "D13"
-			(at 107.6325 110.49 90)
+			(at 158.4325 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4775,7 @@
 			)
 		)
 		(property "Value" "LED_R"
-			(at 107.6325 107.95 90)
+			(at 158.4325 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +4783,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 101.6 107.95 0)
+			(at 152.4 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +4792,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 107.95 0)
+			(at 152.4 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4153,7 +4801,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 101.6 107.95 0)
+			(at 152.4 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4162,7 +4810,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 101.6 107.95 0)
+			(at 152.4 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4345,7 +4993,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 93.98 101.6 90)
+		(at 133.35 101.6 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4354,15 +5002,15 @@
 		(dnp no)
 		(uuid "3cbdb89e-9bcb-43a6-94f1-68aab69cb6af")
 		(property "Reference" "R93"
-			(at 93.98 107.95 90)
+			(at 133.35 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "3k3"
-			(at 93.98 105.41 90)
+		(property "Value" "6k8"
+			(at 133.35 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4370,7 +5018,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 94.234 102.616 90)
+			(at 133.604 102.616 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4379,7 +5027,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 101.6 0)
+			(at 133.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4388,7 +5036,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 93.98 101.6 0)
+			(at 133.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4397,7 +5045,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 93.98 101.6 0)
+			(at 133.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4808,6 +5456,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 152.4 111.76 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c6c0650-e8e3-48e5-9a99-1e5c082a376c")
+		(property "Reference" "R102"
+			(at 157.48 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6k8"
+			(at 157.48 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 153.416 111.506 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 152.4 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b04fa273-3cdf-4a09-9201-1b9e230b3b34")
+		)
+		(pin "2"
+			(uuid "10944fb8-d98d-4c67-b927-c8bb0250c2d1")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "R102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 76.2 101.6 0)
 		(mirror x)
@@ -4915,6 +5631,71 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
 					(reference "U4")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12V")
+		(at 152.4 116.84 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "523cbc54-55a2-47ec-aeb3-de95008dcabd")
+		(property "Reference" "#PWR080"
+			(at 152.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-12V"
+			(at 152.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12V\""
+			(at 152.4 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "197c0d1d-dad0-44c3-8b47-273a75234d27")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "#PWR080")
+					(unit 1)
 				)
 			)
 		)
@@ -5187,7 +5968,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 196.85 90)
+		(at 152.4 180.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5195,7 +5976,7 @@
 		(dnp no)
 		(uuid "6c850391-011c-42a2-bf2b-e88c06faff09")
 		(property "Reference" "D16"
-			(at 107.6325 199.39 90)
+			(at 158.4325 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5203,7 +5984,7 @@
 			)
 		)
 		(property "Value" "LED_R"
-			(at 107.6325 196.85 90)
+			(at 158.4325 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5211,7 +5992,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 101.6 196.85 0)
+			(at 152.4 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5220,7 +6001,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 196.85 0)
+			(at 152.4 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5229,7 +6010,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 101.6 196.85 0)
+			(at 152.4 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5238,7 +6019,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 101.6 196.85 0)
+			(at 152.4 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5256,72 +6037,6 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
 					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 101.6 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "73ac75b6-aad6-479a-98fd-44f48e62a711")
-		(property "Reference" "#PWR087"
-			(at 101.6 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 101.6 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 101.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7c3acd46-ac4f-4971-9031-8de584a950dd")
-		)
-		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
-					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -5477,6 +6192,100 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
 					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC548")
+		(at 149.86 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a3bdf46-e871-4e0f-b0a3-5ee975d84b14")
+		(property "Reference" "Q12"
+			(at 154.94 189.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC548"
+			(at 154.94 191.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline_Wide"
+			(at 154.94 192.405 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 149.86 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92"
+			(at 149.86 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 149.86 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 149.86 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fbde336e-64e1-4942-92ce-ffac81b9f944")
+		)
+		(pin "1"
+			(uuid "80deb3b8-7c59-4f55-ab30-43f0ecfa1e1f")
+		)
+		(pin "3"
+			(uuid "f9d538aa-587b-4dc9-824f-23a2c729f669")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "Q12")
 					(unit 1)
 				)
 			)
@@ -6184,72 +6993,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9d56c98c-0b24-4069-8688-06ad093c706c")
-		(property "Reference" "#PWR080"
-			(at 101.6 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 101.6 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 101.6 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "18c01d11-a368-4130-91aa-182893b88765")
-		)
-		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
-					(reference "#PWR080")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 31.75 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6801,6 +7544,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 152.4 200.66 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7fc7418-583a-4198-accb-a15deda40ebb")
+		(property "Reference" "R106"
+			(at 157.48 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6k8"
+			(at 157.48 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 153.416 200.406 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 152.4 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f10cfb6-a854-4f9f-b3ea-390da3b0d5b5")
+		)
+		(pin "2"
+			(uuid "d5b279cb-517e-4104-b91d-e0d403d0626b")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "R106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 127 177.8 0)
 		(unit 1)
@@ -7101,9 +7912,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 152.4 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d38bb0a2-f215-44ef-8bde-d616fab610b7")
+		(property "Reference" "#PWR089"
+			(at 152.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 152.4 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 152.4 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7537728d-4256-48b4-83eb-da9285ac4126")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 76.2 190.5 0)
-		(mirror x)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7111,7 +7987,7 @@
 		(dnp no)
 		(uuid "d776d920-9af1-483e-9556-ca997bb23cce")
 		(property "Reference" "U4"
-			(at 76.2 200.66 0)
+			(at 76.2 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7119,7 +7995,7 @@
 			)
 		)
 		(property "Value" "TL074"
-			(at 76.2 198.12 0)
+			(at 76.2 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7127,7 +8003,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 74.93 193.04 0)
+			(at 74.93 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7136,7 +8012,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 77.47 195.58 0)
+			(at 77.47 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7358,7 +8234,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 93.98 190.5 90)
+		(at 133.35 190.5 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7367,15 +8243,15 @@
 		(dnp no)
 		(uuid "e61cd45f-5c3c-496e-a094-f5c8a839aca1")
 		(property "Reference" "R101"
-			(at 93.98 196.85 90)
+			(at 133.35 196.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "3k3"
-			(at 93.98 194.31 90)
+		(property "Value" "6k8"
+			(at 133.35 194.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7383,7 +8259,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 94.234 191.516 90)
+			(at 133.604 191.516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7392,7 +8268,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 190.5 0)
+			(at 133.35 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7401,7 +8277,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 93.98 190.5 0)
+			(at 133.35 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7410,7 +8286,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 93.98 190.5 0)
+			(at 133.35 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7495,6 +8371,72 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
 					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 152.4 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eba73534-f9e2-468f-8ec9-3ff6930579e7")
+		(property "Reference" "#PWR088"
+			(at 152.4 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 152.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 152.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "acdc3883-8b0d-42de-9c61-bb726d0522d5")
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5bf0444b-aa40-49ef-a830-0e3569577230"
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
