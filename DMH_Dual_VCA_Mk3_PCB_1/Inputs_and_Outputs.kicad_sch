@@ -4500,7 +4500,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "50k"
 			(at 162.56 176.5301 0)
 			(effects
 				(font
@@ -4509,7 +4509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Vertical"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -6740,7 +6740,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "50k"
 			(at 60.96 271.7801 0)
 			(effects
 				(font
@@ -6749,7 +6749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Vertical"
 			(at 63.5 273.05 0)
 			(effects
 				(font
