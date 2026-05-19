@@ -239,7 +239,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -713,7 +713,7 @@
       {
         "filename": "DMH_Dual_VCA_Mk3_PCB_Controls.kicad_sch",
         "name": "DMH_Dual_VCA_Mk3_PCB_Controls",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
     "used_designators": "",
@@ -722,7 +722,7 @@
   "sheets": [
     [
       "58f4306d-5387-4983-bb08-41a2313fd315",
-      "Root"
+      "DMH_Dual_VCA_Mk3_PCB_Controls"
     ],
     [
       "ce3fef8b-9f1d-4178-b50b-4a046c030679",
