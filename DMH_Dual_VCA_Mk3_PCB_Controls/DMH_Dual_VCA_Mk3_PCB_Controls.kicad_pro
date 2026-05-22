@@ -716,7 +716,7 @@
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R3,R5-15,J1-9,C11,C18,Q1-2,RV2,U2,#PWR2-4,#PWR9-12,#PWR19-21",
     "variants": []
   },
   "sheets": [
@@ -725,24 +725,8 @@
       "DMH_Dual_VCA_Mk3_PCB_Controls"
     ],
     [
-      "ce3fef8b-9f1d-4178-b50b-4a046c030679",
-      "Inputs and Outputs"
-    ],
-    [
-      "7ad2d702-dfb7-4d49-a82d-34430dd5948f",
-      "Main VCA A"
-    ],
-    [
-      "7915b580-c9b0-4472-ab9c-d9fb99b1a92f",
-      "Main VCA B"
-    ],
-    [
-      "8ee005da-7ca8-4d1e-92f5-43ab10d67fe9",
-      "2nd VCA"
-    ],
-    [
-      "5bf0444b-aa40-49ef-a830-0e3569577230",
-      "Clipping"
+      "63cd3340-590b-4a88-a671-fee286e6a0b6",
+      "VCA_DiffAmp_Subcircuit"
     ],
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
