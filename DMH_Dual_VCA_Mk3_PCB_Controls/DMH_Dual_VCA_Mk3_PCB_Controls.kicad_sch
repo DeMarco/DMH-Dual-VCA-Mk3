@@ -1629,36 +1629,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(junction
-		(at 87.63 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "19b11fae-d0de-41c9-9e1b-a7e627f9bc6f")
-	)
-	(junction
-		(at 50.8 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5f392834-2149-4ac9-81d9-8a3b238c42ea")
-	)
-	(junction
-		(at 64.77 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6008d44e-8d6f-4f78-a244-bef305f1a274")
-	)
-	(junction
-		(at 87.63 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8182f340-0e51-4a47-8ce6-f73158a3005a")
-	)
-	(junction
-		(at 64.77 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef72bcea-c227-4895-8256-a019bd2bddcc")
-	)
 	(wire
 		(pts
 			(xy 87.63 48.26) (xy 83.82 48.26)
@@ -1681,43 +1651,13 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 45.72) (xy 68.58 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f35c187-2e4b-4c3c-959a-27afed48cfbe")
-	)
-	(wire
-		(pts
-			(xy 87.63 73.66) (xy 87.63 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20232ffa-e2ca-4cc8-a72c-ded462557ab5")
-	)
-	(wire
-		(pts
-			(xy 87.63 67.31) (xy 87.63 73.66)
+			(xy 87.63 67.31) (xy 87.63 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2a872b6e-bb64-4ec1-a371-96e94d1992cb")
-	)
-	(wire
-		(pts
-			(xy 87.63 35.56) (xy 87.63 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4982eb63-23ae-478b-8711-d5c17b0a1381")
 	)
 	(wire
 		(pts
@@ -1731,7 +1671,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 45.72) (xy 50.8 45.72)
+			(xy 40.64 45.72) (xy 53.34 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1791,7 +1731,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 83.82) (xy 64.77 83.82)
+			(xy 60.96 83.82) (xy 68.58 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1808,16 +1748,6 @@
 			(type default)
 		)
 		(uuid "6d7e9b16-6606-43ef-adaf-3eee8bbb3998")
-	)
-	(wire
-		(pts
-			(xy 50.8 45.72) (xy 53.34 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74f6711b-690e-4aa4-9bca-2ff7f2c21870")
 	)
 	(wire
 		(pts
@@ -1861,17 +1791,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 83.82) (xy 68.58 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb70a480-e969-45d5-8d71-40bfacea61a2")
-	)
-	(wire
-		(pts
-			(xy 87.63 29.21) (xy 87.63 35.56)
+			(xy 87.63 29.21) (xy 87.63 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1891,7 +1811,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 45.72) (xy 64.77 45.72)
+			(xy 60.96 45.72) (xy 68.58 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3662,10 +3582,83 @@
 			)
 		)
 	)
-	(group "VCA_DiffAmp_Subcircuit"
-		(uuid "7979d3d8-d875-40ff-82c7-265655989cb4")
-		(lib_id "Design_blocks:VCA_DiffAmp_Subcircuit")
-		(members "63cd3340-590b-4a88-a671-fee286e6a0b6")
+	(sheet
+		(at 165.1 25.4)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "057bfa54-61e5-4989-82f3-ef7bff7980fe")
+		(property "Sheetname" "VCA_1"
+			(at 165.1 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCA_DiffAmp_SM_H.kicad_sch"
+			(at 165.1 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CV_Mix_In" input
+			(at 165.1 31.75 180)
+			(uuid "af21ad35-056a-400d-a2c0-ebd2a193f7c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_In" input
+			(at 165.1 44.45 180)
+			(uuid "31fe3611-3b77-46b0-ad4b-3646ef8734fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_Out" output
+			(at 190.5 38.1 0)
+			(uuid "71439024-5531-4f2a-b6d1-2ff86738624d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "2")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 378.46 220.98)
@@ -3715,8 +3708,8 @@
 		)
 	)
 	(sheet
-		(at 241.3 76.2)
-		(size 38.1 50.8)
+		(at 215.9 76.2)
+		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3729,20 +3722,22 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "63cd3340-590b-4a88-a671-fee286e6a0b6")
-		(property "Sheetname" "VCA_DiffAmp_Subcircuit"
-			(at 241.3 75.4884 0)
+		(uuid "278671ca-da3b-4aa8-aa68-3c4eaa5e8220")
+		(property "Sheetname" "VCA_4"
+			(at 215.9 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "VCA_DiffAmp_Subcircuit.kicad_sch"
-			(at 241.3 127.5846 0)
+		(property "Sheetfile" "VCA_DiffAmp_SM_H.kicad_sch"
+			(at 215.9 102.1846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3752,10 +3747,196 @@
 				(justify left top)
 			)
 		)
+		(pin "CV_Mix_In" input
+			(at 215.9 82.55 180)
+			(uuid "0d4bde71-544c-45b6-bca6-7d7bfe458da8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_In" input
+			(at 215.9 95.25 180)
+			(uuid "05c62804-5aed-41bc-a6b5-779a9a96266d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_Out" output
+			(at 241.3 88.9 0)
+			(uuid "fe4c22fd-c0f4-4e6c-adfe-8c03075e3e79")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "2")
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 76.2)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "89a09129-9ada-45b6-9575-9fcb38a4fe47")
+		(property "Sheetname" "VCA_2"
+			(at 165.1 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCA_DiffAmp_SM_H.kicad_sch"
+			(at 165.1 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CV_Mix_In" input
+			(at 165.1 82.55 180)
+			(uuid "c5a3b997-acd6-4df9-a383-bbabb96a0129")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_In" input
+			(at 165.1 95.25 180)
+			(uuid "ecb4c690-426e-4721-b8d2-9c85928bd57e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_Out" output
+			(at 190.5 88.9 0)
+			(uuid "61804100-5973-4cd7-97c3-19047463b2d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 25.4)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a4f8a228-8df3-410b-8add-90e0b5160004")
+		(property "Sheetname" "VCA_3"
+			(at 215.9 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCA_DiffAmp_SM_H.kicad_sch"
+			(at 215.9 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CV_Mix_In" input
+			(at 215.9 31.75 180)
+			(uuid "217a24c5-fd3d-4e7e-85b0-c5e616842cae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_In" input
+			(at 215.9 44.45 180)
+			(uuid "bf2d3cb7-91cb-4781-a95a-98734be6be61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_Out" output
+			(at 241.3 38.1 0)
+			(uuid "aa1431cc-8c4d-4e59-962c-27111661b704")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "4")
 				)
 			)
 		)
