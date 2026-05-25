@@ -3914,7 +3914,7 @@
 			(uuid "03e9ab96-0cbc-4683-b011-98ae527270e3")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R71")
 					(unit 1)
@@ -4040,7 +4040,7 @@
 			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba2e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
 					(unit 3)
@@ -4118,7 +4118,7 @@
 			(uuid "29d69b3b-89e9-4e56-ad5d-07d02f11cde7")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0119")
 					(unit 1)
@@ -4196,7 +4196,7 @@
 			(uuid "0c8ac269-88ec-4eb0-9481-00a2bca79998")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0121")
 					(unit 1)
@@ -4358,7 +4358,7 @@
 			(uuid "bec5f434-4f72-4a31-958d-c72a1ac51fbc")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV6")
 					(unit 1)
@@ -4436,7 +4436,7 @@
 			(uuid "5516035f-08e0-43fa-b3f4-e82dfe53b540")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0116")
 					(unit 1)
@@ -4554,7 +4554,7 @@
 			(uuid "57b8d2ed-c3ce-4750-87c0-fd830c232065")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
 					(unit 5)
@@ -4632,7 +4632,7 @@
 			(uuid "40974b8a-52aa-439f-a0f6-2953347393d6")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0122")
 					(unit 1)
@@ -4758,7 +4758,7 @@
 			(uuid "113171d0-1b7a-4fd5-ab7f-c2ac0cc6d541")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
 					(unit 4)
@@ -4920,7 +4920,7 @@
 			(uuid "021e0f23-24ad-4e8c-8aab-0c169507b57e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV6")
 					(unit 2)
@@ -5002,7 +5002,7 @@
 			(uuid "479ac165-f958-4242-9ca9-f323c06e94ce")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R72")
 					(unit 1)
@@ -5082,7 +5082,7 @@
 			(uuid "af7cdc61-f4cd-4bbf-b0ee-97beaf2ff155")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R74")
 					(unit 1)
@@ -5160,7 +5160,7 @@
 			(uuid "379962b5-f846-452b-8b6c-422383caf296")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0124")
 					(unit 1)
@@ -5291,7 +5291,7 @@
 			(uuid "7fc8d633-0bae-48d9-91c0-692ad40d2d19")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV16")
 					(unit 1)
@@ -5369,7 +5369,7 @@
 			(uuid "89a0f6f1-0741-4104-9bf9-b6cbda1b419a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0125")
 					(unit 1)
@@ -5485,7 +5485,7 @@
 			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba2f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
 					(unit 1)
@@ -5616,7 +5616,7 @@
 			(uuid "515e5113-ec03-4e02-b784-9385a60c797f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV7")
 					(unit 1)
@@ -5696,7 +5696,7 @@
 			(uuid "98724d28-7d35-4a34-a780-036024a01ac2")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R69")
 					(unit 1)
@@ -5774,7 +5774,7 @@
 			(uuid "e14482fa-1457-4e2d-9472-f48ef184e02f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0118")
 					(unit 1)
@@ -5905,7 +5905,7 @@
 			(uuid "6e210a81-2f4f-424e-84e4-679ecd672c11")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV11")
 					(unit 1)
@@ -5983,7 +5983,7 @@
 			(uuid "53bb45ed-6144-4c0b-a21d-f63da5832f2f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0117")
 					(unit 1)
@@ -6063,7 +6063,7 @@
 			(uuid "7358631b-34e9-4344-8401-83a1b4588cf0")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R65")
 					(unit 1)
@@ -6145,7 +6145,7 @@
 			(uuid "e0b559a9-0a85-4950-b648-2c6d42e706bf")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R66")
 					(unit 1)
@@ -6223,7 +6223,7 @@
 			(uuid "1d94a9d3-9683-49fa-8e1d-11590a6d4b6e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0113")
 					(unit 1)
@@ -6351,7 +6351,7 @@
 			(uuid "ea84de9c-3bd6-4d11-b380-f4773672dde5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV14")
 					(unit 1)
@@ -6429,7 +6429,7 @@
 			(uuid "853c39df-674c-43aa-9602-9a209ce9c855")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0120")
 					(unit 1)
@@ -6507,7 +6507,7 @@
 			(uuid "393e2474-3401-4f4c-9b84-d8af234f5f52")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0114")
 					(unit 1)
@@ -6587,7 +6587,7 @@
 			(uuid "86012c1d-e076-450b-b6d6-41ca12e4cc80")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R70")
 					(unit 1)
@@ -6703,7 +6703,7 @@
 			(uuid "994dda7a-5b40-42fc-ac10-a105e7cd845c")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
 					(unit 2)
@@ -6783,7 +6783,7 @@
 			(uuid "30a25319-269d-4177-a6da-3d15fe7f7138")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R64")
 					(unit 1)
@@ -6914,7 +6914,7 @@
 			(uuid "ec7d5e55-7281-4241-93fc-c5b101bd0dc3")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV8")
 					(unit 1)
@@ -6993,7 +6993,7 @@
 			(uuid "b4107188-bf0a-4bd0-8fe6-289f7a31a9b4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0126")
 					(unit 1)
@@ -7071,7 +7071,7 @@
 			(uuid "bfdaa46c-1b2f-4e4b-9cf0-2fa77bc045d7")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0112")
 					(unit 1)
@@ -7202,7 +7202,7 @@
 			(uuid "1921114e-2794-4a36-af24-ac8c7b1217d3")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV12")
 					(unit 1)
@@ -7282,7 +7282,7 @@
 			(uuid "debc7f33-04d5-42c6-ba83-45ce9c0ee37f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R73")
 					(unit 1)
@@ -7362,7 +7362,7 @@
 			(uuid "637a50c7-3499-4252-a770-43a00465b7ff")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R68")
 					(unit 1)
@@ -7490,7 +7490,7 @@
 			(uuid "ed1ddb61-3fff-4519-8dc6-52bf9b1a50ad")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV9")
 					(unit 1)
@@ -7572,7 +7572,7 @@
 			(uuid "ee0d3753-5dea-4e6f-970f-101f57d7c765")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "C19")
 					(unit 1)
@@ -7650,7 +7650,7 @@
 			(uuid "4c5fbe79-527b-454c-9c32-da805fe11804")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0115")
 					(unit 1)
@@ -7756,7 +7756,7 @@
 			(uuid "e280ad51-427c-4e0b-bb3b-e3d18ba5398a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "SW1")
 					(unit 1)
@@ -7834,7 +7834,7 @@
 			(uuid "090c67f4-e073-418b-bd52-cb0be8f20f07")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "#PWR0123")
 					(unit 1)
@@ -7914,7 +7914,7 @@
 			(uuid "0db7e6b3-d16b-4ab3-aecd-48897b766f5b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R67")
 					(unit 1)
@@ -8042,7 +8042,7 @@
 			(uuid "6fd22aef-8361-4d39-b1fc-0cfff1ee2c9a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV15")
 					(unit 1)
@@ -8173,7 +8173,7 @@
 			(uuid "57d07a89-60d0-497e-90c3-6a6c28ece9ea")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV13")
 					(unit 1)
@@ -8255,7 +8255,7 @@
 			(uuid "5353af3f-ef37-4676-8b78-47b4f458f9d4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "C18")
 					(unit 1)
@@ -8383,7 +8383,7 @@
 			(uuid "36b1544b-f638-496f-a2ee-188cf7051742")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "RV10")
 					(unit 1)
@@ -8463,7 +8463,7 @@
 			(uuid "52b523b5-d64f-4f38-9cde-8d5c29fb8d86")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "R75")
 					(unit 1)

@@ -489,7 +489,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DMH_Dual_VCA_Mk3_PCB_Controls.kicad_pro",
+    "filename": "DMH_Dual_VCA_Mk3_PCB_Main.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -717,8 +717,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "DMH_Dual_VCA_Mk3_PCB_Controls.kicad_sch",
-        "name": "DMH_Dual_VCA_Mk3_PCB_Controls",
+        "filename": "DMH_Dual_VCA_Mk3_PCB_Main.kicad_sch",
+        "name": "DMH_Dual_VCA_Mk3_PCB_Main",
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
@@ -728,7 +728,7 @@
   "sheets": [
     [
       "58f4306d-5387-4983-bb08-41a2313fd315",
-      "DMH_Dual_VCA_Mk3_PCB_Controls"
+      "DMH_Dual_VCA_Mk3_PCB_Main"
     ],
     [
       "057bfa54-61e5-4989-82f3-ef7bff7980fe",

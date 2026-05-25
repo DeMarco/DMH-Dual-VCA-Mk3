@@ -10343,7 +10343,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "000d0ea4-c728-4db2-be07-e52c5613cd4d")
@@ -10417,7 +10417,7 @@
 			(uuid "4ebf2198-71d0-4c4b-b969-ca4f0e7327ed")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R10")
 					(unit 1)
@@ -10432,7 +10432,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0160707d-5a5e-46b9-9836-f4c1915c9e12")
@@ -10515,7 +10515,7 @@
 			(uuid "1a7a1403-b48b-4437-a12b-24f561334212")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J12")
 					(unit 1)
@@ -10530,7 +10530,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10593,7 +10593,7 @@
 			(uuid "625d8b01-6221-4494-9ee0-be8160c7eee8")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR040")
 					(unit 1)
@@ -10608,7 +10608,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0411a23c-9676-40e6-b9ec-8564f9940340")
@@ -10685,7 +10685,7 @@
 			(uuid "f8964013-dc8c-4840-8932-940f5bb3b9a6")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J13")
 					(unit 1)
@@ -10700,7 +10700,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10763,7 +10763,7 @@
 			(uuid "9ab9309d-456b-4ddb-aaf9-7ce7d79038f4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR045")
 					(unit 1)
@@ -10779,7 +10779,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0af896b8-56ce-49f0-9c29-a29061027ca8")
@@ -10879,7 +10879,7 @@
 			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U3")
 					(unit 1)
@@ -10894,7 +10894,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10957,7 +10957,7 @@
 			(uuid "07937bc9-1245-4a46-8b1f-098d64116ece")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR037")
 					(unit 1)
@@ -10972,7 +10972,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11039,7 +11039,7 @@
 			(uuid "698d3b63-0667-430c-92e9-c32ab7ba27cd")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C7")
 					(unit 1)
@@ -11054,7 +11054,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ece4a42-583f-4229-ad02-56828d204d6f")
@@ -11131,7 +11131,7 @@
 			(uuid "e2ef9cb1-db60-42fa-be21-255fcad28a6e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J11")
 					(unit 1)
@@ -11146,7 +11146,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11209,7 +11209,7 @@
 			(uuid "7d6315c6-b51b-408c-a224-836215125757")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR09")
 					(unit 1)
@@ -11224,7 +11224,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11287,7 +11287,7 @@
 			(uuid "fbd7e0ac-146e-46e9-9a53-51c666eecec0")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR051")
 					(unit 1)
@@ -11303,7 +11303,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1230396e-c177-4aa7-939d-56b609c496a7")
@@ -11380,7 +11380,7 @@
 			(uuid "7faaaec1-d644-429e-83be-cf75ef6adc05")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J19")
 					(unit 1)
@@ -11396,7 +11396,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "128d6a61-d92b-4025-909b-48ddefdd41d4")
@@ -11462,7 +11462,7 @@
 			(uuid "fb52d9a6-30f4-4133-8be5-4e004b5dfaf4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R2")
 					(unit 1)
@@ -11478,7 +11478,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "145362f5-1205-4915-9d9f-cff9c23bf395")
@@ -11578,7 +11578,7 @@
 			(uuid "512d8e70-bdd8-4bd0-90b2-b248113cba31")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U3")
 					(unit 4)
@@ -11594,7 +11594,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "14da8911-ee34-44cc-a5e5-54a47a69eabe")
@@ -11680,7 +11680,7 @@
 			(uuid "5f38b2f2-b99e-4b82-a360-c2f17afae160")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "D1")
 					(unit 1)
@@ -11696,7 +11696,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1557a12e-0eef-45e5-bb2c-34bbd53a52cf")
@@ -11770,7 +11770,7 @@
 			(uuid "e82c9a41-d872-48d5-8ad1-cfae782490ed")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R11")
 					(unit 1)
@@ -11785,7 +11785,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11848,7 +11848,7 @@
 			(uuid "a6668ff0-409d-4517-9656-b2c430c8e694")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR058")
 					(unit 1)
@@ -11863,7 +11863,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "15b79ab3-aaa2-4f9c-8df3-dac47fe5f55d")
@@ -11925,7 +11925,7 @@
 			(uuid "6079118d-6435-4607-bdd8-c5801320e683")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#FLG04")
 					(unit 1)
@@ -11940,7 +11940,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12003,7 +12003,7 @@
 			(uuid "8d44e048-2ca5-4bc9-bb97-9bf94fc9aa04")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR024")
 					(unit 1)
@@ -12018,7 +12018,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12081,7 +12081,7 @@
 			(uuid "4b818cd0-5d9e-42f2-92b9-cd503ee63a25")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR05")
 					(unit 1)
@@ -12096,7 +12096,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12159,7 +12159,7 @@
 			(uuid "39b7ee27-372d-4c6b-b1b6-2ab0ed42254a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR035")
 					(unit 1)
@@ -12175,7 +12175,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1988ef80-40c7-4561-b097-8b817d95191b")
@@ -12241,7 +12241,7 @@
 			(uuid "dcdad68b-9c57-4c25-b547-220c596fba6d")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C1")
 					(unit 1)
@@ -12256,7 +12256,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12323,7 +12323,7 @@
 			(uuid "e86c9623-9ec0-422c-b132-2cb1b1b61e30")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C8")
 					(unit 1)
@@ -12338,7 +12338,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12402,7 +12402,7 @@
 			(uuid "cd184a69-77db-4ca1-b334-2c92bc5924bb")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR029")
 					(unit 1)
@@ -12417,7 +12417,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "23546847-a031-4ffc-b0a6-ef2cf9b2f199")
@@ -12500,7 +12500,7 @@
 			(uuid "945b5633-f46f-4d5e-95e6-83332bbc13ff")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J15")
 					(unit 1)
@@ -12515,7 +12515,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12578,7 +12578,7 @@
 			(uuid "bb5df02d-cef0-42b1-9292-4c0bf5739074")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR036")
 					(unit 1)
@@ -12593,7 +12593,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12666,7 +12666,7 @@
 			(uuid "3b474b19-e1ea-4213-8b50-9877dd95b6a4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR020")
 					(unit 1)
@@ -12680,8 +12680,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
+		(in_bom yes)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12751,7 +12751,7 @@
 			(uuid "15eb0ee2-0aa6-4d6c-b7f6-fca50fb26feb")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "JP1")
 					(unit 1)
@@ -12766,7 +12766,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12829,7 +12829,7 @@
 			(uuid "9fbd39e8-89c6-4b56-be52-825435d1a629")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR055")
 					(unit 1)
@@ -12844,7 +12844,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12907,7 +12907,7 @@
 			(uuid "3c3ff449-463a-4be2-b28e-0a63fbdd1761")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR031")
 					(unit 1)
@@ -12922,7 +12922,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12985,7 +12985,7 @@
 			(uuid "8847cc48-784f-4a16-bea8-d95471381bc2")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR039")
 					(unit 1)
@@ -13000,7 +13000,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13063,7 +13063,7 @@
 			(uuid "7e8c54bc-4fc5-405f-ac4d-466f643e95e2")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR017")
 					(unit 1)
@@ -13078,7 +13078,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13141,7 +13141,7 @@
 			(uuid "761d9f75-6a41-4e12-bf47-bcb7ce3014d3")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR014")
 					(unit 1)
@@ -13156,7 +13156,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13245,7 +13245,7 @@
 			(uuid "f5d1044a-2553-4b75-994e-98bf8bdab3ea")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J10")
 					(unit 1)
@@ -13260,7 +13260,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13323,7 +13323,7 @@
 			(uuid "9e732812-1da7-4629-98e9-2489a106adf6")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR046")
 					(unit 1)
@@ -13338,7 +13338,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13401,7 +13401,7 @@
 			(uuid "014fa352-2eb3-477c-ac37-c673b1dc69d6")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR059")
 					(unit 1)
@@ -13416,7 +13416,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13479,7 +13479,7 @@
 			(uuid "c0b46821-464c-4f6f-8bd8-cbfe8f390aed")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR08")
 					(unit 1)
@@ -13494,7 +13494,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13557,7 +13557,7 @@
 			(uuid "fbb6a2c5-7603-4997-9dcb-6b80a7998d65")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR053")
 					(unit 1)
@@ -13572,7 +13572,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13635,7 +13635,7 @@
 			(uuid "393ff866-6fd2-4745-a89a-2f7919419491")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR050")
 					(unit 1)
@@ -13650,7 +13650,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f178726-0868-47d4-a50e-21fc3ba267fb")
@@ -13712,7 +13712,7 @@
 			(uuid "8f276b6c-e2e7-486d-843b-46b39c0d38fb")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#FLG03")
 					(unit 1)
@@ -13727,7 +13727,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13790,7 +13790,7 @@
 			(uuid "99d3e90d-77c8-4cb2-96b0-26e62c04e71e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR011")
 					(unit 1)
@@ -13805,7 +13805,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13868,7 +13868,7 @@
 			(uuid "cb9c3bad-61d1-425d-9bd0-ade5add6a1e5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR028")
 					(unit 1)
@@ -13883,7 +13883,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48896be7-7979-4412-900b-7e5ef2d9483f")
@@ -13956,7 +13956,7 @@
 			(uuid "9f2dbb83-1137-4860-ac58-fa72550be03b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J24")
 					(unit 1)
@@ -13971,7 +13971,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14034,7 +14034,7 @@
 			(uuid "c6b19250-e41c-48b5-8fe4-6de92b214b94")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR056")
 					(unit 1)
@@ -14049,7 +14049,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b3050f2-be7a-4f14-a0d6-30b4fa5f79f7")
@@ -14117,7 +14117,7 @@
 			(uuid "fb2529d0-66d9-4bef-8f4f-4f85a716072d")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U1")
 					(unit 1)
@@ -14132,7 +14132,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14195,7 +14195,7 @@
 			(uuid "54f03665-c312-4fd9-a1f4-b2517ab56ce8")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR06")
 					(unit 1)
@@ -14210,7 +14210,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fb25d44-0a90-4a3d-85e0-834f2006244b")
@@ -14323,7 +14323,7 @@
 			(uuid "39fa0c2c-0eff-492f-9904-44ec7a792beb")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "RV1")
 					(unit 1)
@@ -14338,7 +14338,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50c07b6d-dbba-4369-a354-cef39518919d")
@@ -14411,7 +14411,7 @@
 			(uuid "3feca7ed-6999-4b29-9b71-d67c05a57c36")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J21")
 					(unit 1)
@@ -14426,7 +14426,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14490,7 +14490,7 @@
 			(uuid "230232c2-9347-428e-9e9f-35cf9c1fc589")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR018")
 					(unit 1)
@@ -14505,7 +14505,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14568,7 +14568,7 @@
 			(uuid "a3684684-701c-4896-b776-e4672b252015")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR048")
 					(unit 1)
@@ -14583,7 +14583,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14656,7 +14656,7 @@
 			(uuid "ad868639-2cbb-4bf1-8266-c78b4a7ab9ce")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR022")
 					(unit 1)
@@ -14671,7 +14671,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14734,7 +14734,7 @@
 			(uuid "a5df4f95-89f3-40d2-9cd2-6c5f4b5ec3e5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR052")
 					(unit 1)
@@ -14750,7 +14750,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bbe42e1-c9fe-4f0d-b960-b589011e248f")
@@ -14818,7 +14818,7 @@
 			(uuid "edafcde5-74f9-4e15-a1d9-d2c77fc78e70")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U2")
 					(unit 1)
@@ -14834,7 +14834,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5cb0d425-62dc-4d9c-930e-7f55467c567c")
@@ -14900,7 +14900,7 @@
 			(uuid "e34cdd83-d3c0-45dd-92f9-b014aac1ef38")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C2")
 					(unit 1)
@@ -14915,7 +14915,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14980,7 +14980,7 @@
 			(uuid "f622b06f-5f58-4a98-957e-c76199447443")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R14")
 					(unit 1)
@@ -14995,7 +14995,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15058,7 +15058,7 @@
 			(uuid "5b57cb60-82f3-4bd5-9594-20acdcc431a6")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR010")
 					(unit 1)
@@ -15073,7 +15073,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15162,7 +15162,7 @@
 			(uuid "6d88c12e-9db3-4603-82ec-47c695798fad")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J17")
 					(unit 1)
@@ -15177,7 +15177,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15241,7 +15241,7 @@
 			(uuid "7ca3ab66-096f-42d4-80fd-50ca594ded56")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR033")
 					(unit 1)
@@ -15256,7 +15256,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15319,7 +15319,7 @@
 			(uuid "96c56735-083b-4ebe-8434-1480acfc93cd")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR038")
 					(unit 1)
@@ -15334,7 +15334,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15424,7 +15424,7 @@
 			(uuid "32b1a570-a386-468a-a759-74d1f933f67b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J4")
 					(unit 1)
@@ -15439,7 +15439,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15529,7 +15529,7 @@
 			(uuid "dbf33b11-bff2-4187-876c-bce877b9b028")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J5")
 					(unit 1)
@@ -15545,7 +15545,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "724a99c3-a7e7-4088-8d83-9fb9586bd7b6")
@@ -15619,7 +15619,7 @@
 			(uuid "36f79d4a-b387-45d3-98cb-32a81dfcc631")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R5")
 					(unit 1)
@@ -15634,7 +15634,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15724,7 +15724,7 @@
 			(uuid "decd5179-41e1-41fa-91d8-670bc7e9b708")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J8")
 					(unit 1)
@@ -15739,7 +15739,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15806,7 +15806,7 @@
 			(uuid "3394a778-80a6-4de4-890e-27add59d0c82")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C5")
 					(unit 1)
@@ -15821,7 +15821,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15884,7 +15884,7 @@
 			(uuid "4c5013cc-abf9-46f8-aacb-ef96eaf8fb82")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR013")
 					(unit 1)
@@ -15899,7 +15899,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15962,7 +15962,7 @@
 			(uuid "f78dc2ae-bf18-4f0f-b476-d83e1023f54b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR015")
 					(unit 1)
@@ -15977,7 +15977,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16041,7 +16041,7 @@
 			(uuid "e4726fe6-96a1-4752-a3da-f0a0b730392f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR030")
 					(unit 1)
@@ -16057,7 +16057,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80e6c989-f87f-4d8c-a188-77406e60d2c7")
@@ -16134,7 +16134,7 @@
 			(uuid "ab83d889-765a-499d-98a2-2e1a21af85ed")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J23")
 					(unit 1)
@@ -16150,7 +16150,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8243c93d-7c6e-4c20-b410-696e74eaecfb")
@@ -16232,7 +16232,7 @@
 			(uuid "40cd813a-8673-4afa-a0dc-f8cd8d333233")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U4")
 					(unit 1)
@@ -16247,7 +16247,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16310,7 +16310,7 @@
 			(uuid "da461955-47b6-48bc-ba35-4f1ac4305939")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR021")
 					(unit 1)
@@ -16325,7 +16325,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16388,7 +16388,7 @@
 			(uuid "d33d77f1-7d41-43e0-a9fc-4790ee713bad")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR043")
 					(unit 1)
@@ -16404,7 +16404,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8749f6ba-1818-44a5-9281-64c8e9fdef44")
@@ -16468,7 +16468,7 @@
 			(uuid "860cc576-72c0-453c-8ced-d8283ec685a5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C3")
 					(unit 1)
@@ -16483,7 +16483,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16548,7 +16548,7 @@
 			(uuid "b1267f2c-ea19-4861-9b69-f56ea41dd86b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R6")
 					(unit 1)
@@ -16563,7 +16563,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16630,7 +16630,7 @@
 			(uuid "6a2e9ca4-2ee5-4d20-89cd-700eaeb8c81a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C6")
 					(unit 1)
@@ -16645,7 +16645,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16708,7 +16708,7 @@
 			(uuid "5576cd97-bb14-4d45-8a17-140bb3fe0cc8")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR049")
 					(unit 1)
@@ -16723,7 +16723,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f77734d-0976-4cfb-b767-6cba7d60b9ab")
@@ -16800,7 +16800,7 @@
 			(uuid "7e7667e3-04cb-4560-9314-996e9f884b31")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J14")
 					(unit 1)
@@ -16816,7 +16816,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91fe1e13-df3b-40e7-a6bc-fc4307383267")
@@ -16898,7 +16898,7 @@
 			(uuid "5a1bd9ae-b993-4918-ace3-2ece7ce0046d")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U4")
 					(unit 2)
@@ -16913,7 +16913,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16976,7 +16976,7 @@
 			(uuid "d005be47-c25c-43be-ba06-2b9fbc785abc")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR054")
 					(unit 1)
@@ -16990,8 +16990,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
+		(in_bom yes)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "94d5a46e-773d-41b6-94da-81ccbe9f36a7")
@@ -17066,7 +17066,7 @@
 			(uuid "99745ff9-0082-4ac1-9112-189877f47acc")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J20")
 					(unit 1)
@@ -17082,7 +17082,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95eb2f91-d49b-4c4f-ab27-8ab7e5589666")
@@ -17156,7 +17156,7 @@
 			(uuid "a7043fd5-3687-48f0-82cb-d37235d620ab")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R7")
 					(unit 1)
@@ -17171,7 +17171,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97ee947c-b71c-4cd4-bc9d-f0b699eb50fe")
@@ -17233,7 +17233,7 @@
 			(uuid "a0c69b85-9080-4086-bbad-d43a0007fd33")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR041")
 					(unit 1)
@@ -17248,7 +17248,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17313,7 +17313,7 @@
 			(uuid "4223e44b-7389-4936-9a8b-5f03b2445e43")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R13")
 					(unit 1)
@@ -17328,7 +17328,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17392,7 +17392,7 @@
 			(uuid "4425eb73-9d91-47fb-bedc-3234ec95d321")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR023")
 					(unit 1)
@@ -17407,7 +17407,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a17690b0-2f82-43e6-82f7-2fd5df654d53")
@@ -17469,7 +17469,7 @@
 			(uuid "2a93817b-f3de-45a6-89d4-faaec3e83aa3")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#FLG01")
 					(unit 1)
@@ -17484,7 +17484,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17548,7 +17548,7 @@
 			(uuid "e8cf900d-71f0-40b3-a63e-93b805690a11")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR027")
 					(unit 1)
@@ -17563,7 +17563,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17648,7 +17648,7 @@
 			(uuid "c8b2e2ba-134f-4b0e-86b4-e7d3188a7cb4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U4")
 					(unit 3)
@@ -17663,7 +17663,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17726,7 +17726,7 @@
 			(uuid "c626ebb7-52a1-4164-a906-13a3fbde9a2d")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR01")
 					(unit 1)
@@ -17741,7 +17741,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a72e35e6-e5bb-40e7-8836-937844b6c5bd")
@@ -17803,7 +17803,7 @@
 			(uuid "a49f10f1-72aa-4d6a-bf6e-d809b5f0a331")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#FLG02")
 					(unit 1)
@@ -17818,7 +17818,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17891,7 +17891,7 @@
 			(uuid "2f126c0d-1a64-47b3-bace-88f9f51f0cb6")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR012")
 					(unit 1)
@@ -17906,7 +17906,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17970,7 +17970,7 @@
 			(uuid "917b967c-3e48-4c4a-ad99-8dd3c7ad9510")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR032")
 					(unit 1)
@@ -17985,7 +17985,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18048,7 +18048,7 @@
 			(uuid "11c15edf-6159-42f2-a18e-a09f7564818e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR019")
 					(unit 1)
@@ -18063,7 +18063,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18153,7 +18153,7 @@
 			(uuid "f89bce85-50c9-41fb-8d71-aec218f034a1")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J2")
 					(unit 1)
@@ -18168,7 +18168,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18231,7 +18231,7 @@
 			(uuid "ce9125f0-f762-43a9-93d4-37c2b8e12468")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR047")
 					(unit 1)
@@ -18246,7 +18246,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18336,7 +18336,7 @@
 			(uuid "ad7631f0-72b5-443b-a6f7-300aa50eef0b")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J3")
 					(unit 1)
@@ -18351,7 +18351,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18414,7 +18414,7 @@
 			(uuid "cef18f40-97f3-4231-a9df-3c2e02c5465a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR057")
 					(unit 1)
@@ -18429,7 +18429,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3bc827c-9a11-40f0-a8c2-bc0e54d4a601")
@@ -18506,7 +18506,7 @@
 			(uuid "bf4eda96-f1cd-4ac1-b0d7-a78c2af671c5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J16")
 					(unit 1)
@@ -18521,7 +18521,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18584,7 +18584,7 @@
 			(uuid "b1adea1d-4288-440f-bad3-9798b008447e")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR07")
 					(unit 1)
@@ -18599,7 +18599,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18662,7 +18662,7 @@
 			(uuid "2a6bd797-b259-4522-a010-2684385c9d55")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR044")
 					(unit 1)
@@ -18677,7 +18677,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18740,7 +18740,7 @@
 			(uuid "862aa728-697d-40a9-b55d-c5f054d09183")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR042")
 					(unit 1)
@@ -18755,7 +18755,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18845,7 +18845,7 @@
 			(uuid "7e209fe0-07a4-4719-b1b2-6f542031a4e7")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J9")
 					(unit 1)
@@ -18860,7 +18860,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18925,7 +18925,7 @@
 			(uuid "73472590-77c2-4c8b-9df1-ca356cfca8cb")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R12")
 					(unit 1)
@@ -18940,7 +18940,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19003,7 +19003,7 @@
 			(uuid "b8cb10a2-b8ae-48d6-97fe-d850f116dda7")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR03")
 					(unit 1)
@@ -19018,7 +19018,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19085,7 +19085,7 @@
 			(uuid "54852fb1-fe53-44ba-974e-868f2d1222fe")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C9")
 					(unit 1)
@@ -19100,7 +19100,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19163,7 +19163,7 @@
 			(uuid "604d9eab-80b6-4d4a-9577-9fb403dd5a63")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR034")
 					(unit 1)
@@ -19178,7 +19178,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19243,7 +19243,7 @@
 			(uuid "0db4822b-c688-4106-b8a3-9b6c99202b77")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R3")
 					(unit 1)
@@ -19258,7 +19258,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19321,7 +19321,7 @@
 			(uuid "1e163f33-064f-4e55-8501-e4897c99c304")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR02")
 					(unit 1)
@@ -19337,7 +19337,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd9d3811-6b0c-4647-9d78-6b7313c430d7")
@@ -19437,7 +19437,7 @@
 			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5d")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U3")
 					(unit 3)
@@ -19453,7 +19453,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dfa8eb00-036e-457c-a2d2-e45c57ca1782")
@@ -19527,7 +19527,7 @@
 			(uuid "ec0a8c44-7f36-47fe-8ccb-ff8279320cd3")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R4")
 					(unit 1)
@@ -19542,7 +19542,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19632,7 +19632,7 @@
 			(uuid "15831b20-bdda-48ef-b1aa-b8eb4859c369")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J1")
 					(unit 1)
@@ -19647,7 +19647,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1121b28-85dc-4762-8fd8-4578a0c2f6da")
@@ -19710,7 +19710,7 @@
 			(uuid "a7b01699-0358-4a7d-aae1-531d98bb9139")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR025")
 					(unit 1)
@@ -19726,7 +19726,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2ba7718-5d9b-4045-882f-06d0e27d25e4")
@@ -19800,7 +19800,7 @@
 			(uuid "44d8f9e1-b0ef-432e-af71-e81444248fe8")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R9")
 					(unit 1)
@@ -19815,7 +19815,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19882,7 +19882,7 @@
 			(uuid "665c12fa-f3e0-429c-b9b0-3765a96890ae")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "C4")
 					(unit 1)
@@ -19897,7 +19897,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19960,7 +19960,7 @@
 			(uuid "7c1482b0-75d4-4c42-bcc2-47459e981043")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR04")
 					(unit 1)
@@ -19975,7 +19975,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20065,7 +20065,7 @@
 			(uuid "c8b395f6-8e78-4d97-9f9d-63f47f9782c5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J6")
 					(unit 1)
@@ -20080,7 +20080,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20183,7 +20183,7 @@
 			(uuid "57b8d2ed-c3ce-4750-87c0-fd830c232065")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U3")
 					(unit 5)
@@ -20199,7 +20199,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea7c6cfe-d87c-4873-8128-450633f2240c")
@@ -20276,7 +20276,7 @@
 			(uuid "d8a662e1-62b5-4544-a229-f73d953d735f")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J22")
 					(unit 1)
@@ -20292,7 +20292,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eae88875-a990-4784-83f5-085939401aae")
@@ -20392,7 +20392,7 @@
 			(uuid "63eeae58-ed52-4627-9088-4990b5c53d5c")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "U3")
 					(unit 2)
@@ -20408,7 +20408,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eb4d039e-e946-4264-92e4-f4404ce82301")
@@ -20472,7 +20472,7 @@
 			(uuid "0e6c5024-0fea-4df3-a8f4-d5cb77a66210")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R8")
 					(unit 1)
@@ -20487,7 +20487,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20550,7 +20550,7 @@
 			(uuid "dc635a97-f450-4487-9c27-19636411ded5")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR026")
 					(unit 1)
@@ -20566,7 +20566,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ecda95ed-ec3e-4653-9b60-3abcd54ec21c")
@@ -20652,7 +20652,7 @@
 			(uuid "71a6835a-ce70-4355-98cb-e6a8180bf263")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "D2")
 					(unit 1)
@@ -20667,7 +20667,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20732,7 +20732,7 @@
 			(uuid "7d8974e5-aba4-4b9c-a9ec-a49962ea33c1")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "D4")
 					(unit 1)
@@ -20748,7 +20748,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0734c21-5e6c-4aff-b747-58c926d23669")
@@ -20814,7 +20814,7 @@
 			(uuid "5aeb2723-8468-4821-994d-45b07ae8ada4")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R1")
 					(unit 1)
@@ -20829,7 +20829,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20919,7 +20919,7 @@
 			(uuid "553408ed-8df5-41fc-abaf-20c3075530d7")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J7")
 					(unit 1)
@@ -20935,7 +20935,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f7815efb-b5e1-4330-b826-a6865978d4a1")
@@ -21012,7 +21012,7 @@
 			(uuid "3caf6ec6-ef98-4fa3-99d4-ed8339682b44")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J18")
 					(unit 1)
@@ -21027,7 +21027,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9bdc665-8d67-4a13-b7c7-21951acfa5b7")
@@ -21090,7 +21090,7 @@
 			(uuid "b0b66aa2-3ac1-4216-8775-661f4f6ed0ff")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR016")
 					(unit 1)
@@ -21105,7 +21105,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21170,7 +21170,7 @@
 			(uuid "7950f332-bbd3-4eef-8b56-c494a5777c97")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "D3")
 					(unit 1)
@@ -21185,7 +21185,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21250,7 +21250,7 @@
 			(uuid "98902acc-4e8b-44a8-ab07-c1dd2e4e723a")
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "R15")
 					(unit 1)
@@ -21330,7 +21330,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "2")
 				)
@@ -21409,7 +21409,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "5")
 				)
@@ -21488,7 +21488,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
 				)
@@ -21500,7 +21500,7 @@
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
@@ -21575,7 +21575,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "7")
 				)
@@ -21654,7 +21654,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "4")
 				)
@@ -21666,7 +21666,7 @@
 		(size 38.1 114.3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
@@ -21841,7 +21841,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
+			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "6")
 				)
