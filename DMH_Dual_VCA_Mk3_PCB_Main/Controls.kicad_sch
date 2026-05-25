@@ -7179,7 +7179,7 @@
 				)
 			)
 		)
-		(property "Function" "CV Amt B2"
+		(property "Function" "CV Amt B1"
 			(at 126.746 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
