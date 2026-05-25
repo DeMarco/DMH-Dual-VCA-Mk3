@@ -716,7 +716,7 @@
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
-    "used_designators": "C11,C18-24,#FLG5-16,R3,R5-51,J10-13,Q1-8,RV2-5,U2-4,U7,#PWR2-4,#PWR9-12,#PWR19-50,#PWR59-71",
+    "used_designators": "D1-24,#PWR5-8,#PWR13,#PWR15,#PWR17,#PWR51-58,#PWR78-122,C1-2,C9-10,C12,C27-36,U5-6,U9-11,#FLG1-4,R2,R54-123,RV13-16,SW1-3,Q9-16,J14-16,J100,J200,JP1",
     "variants": []
   },
   "sheets": [
@@ -726,23 +726,27 @@
     ],
     [
       "057bfa54-61e5-4989-82f3-ef7bff7980fe",
-      "VCA_1"
+      "VCA_A_Tier1"
     ],
     [
       "89a09129-9ada-45b6-9575-9fcb38a4fe47",
-      "VCA_2"
+      "VCA_A_Tier2"
     ],
     [
       "a4f8a228-8df3-410b-8add-90e0b5160004",
-      "VCA_3"
+      "VCA_B_Tier1"
     ],
     [
       "278671ca-da3b-4aa8-aa68-3c4eaa5e8220",
-      "VCA_4"
+      "VCA_B_Tier2"
     ],
     [
-      "0cdf34b2-39cd-4d9e-981a-97cd34791509",
-      "Power"
+      "aca37be5-e58c-41bf-b28c-79389d66daa4",
+      "Controls"
+    ],
+    [
+      "9ce5b828-696c-48b9-9d07-1c28bd7c284b",
+      "Clipping"
     ]
   ],
   "text_variables": {},
