@@ -6262,7 +6262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 165.1 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7401,7 +7401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 63.5 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7953,7 +7953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 165.1 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8294,7 +8294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 63.5 63.5 0)
 			(hide yes)
 			(show_name no)

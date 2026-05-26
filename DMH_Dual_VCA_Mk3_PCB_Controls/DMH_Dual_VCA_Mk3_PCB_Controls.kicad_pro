@@ -536,7 +536,12 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
+    "net_colors": {
+      "+12V": "rgb(255, 0, 0)",
+      "+5V": "rgb(129, 0, 248)",
+      "-12V": "rgb(0, 255, 0)",
+      "-5V": "rgb(168, 168, 0)"
+    },
     "netclass_assignments": {
       "Net-(D1-A)": [
         "Power"
@@ -722,7 +727,7 @@
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J21,J24",
     "variants": []
   },
   "sheets": [
