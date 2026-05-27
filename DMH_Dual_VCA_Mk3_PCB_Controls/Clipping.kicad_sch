@@ -4799,7 +4799,7 @@
 		(uuid "2353c615-16bf-4680-b545-8e9e58bbe58b")
 	)
 	(label "LED_B_pK_c"
-		(at 119.38 139.7 180)
+		(at 119.38 137.16 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4849,7 +4849,7 @@
 		(uuid "63a400fb-0367-4388-b361-1c6a215c1ea9")
 	)
 	(label "LED_A_pK_m"
-		(at 147.32 134.62 0)
+		(at 147.32 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4919,7 +4919,7 @@
 		(uuid "91833f7d-dc8e-4c77-a7a4-ad580c660dca")
 	)
 	(label "LED_B_pA_c"
-		(at 119.38 137.16 180)
+		(at 119.38 139.7 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4929,7 +4929,7 @@
 		(uuid "975bb09a-f262-481a-bd24-0a08bfe56989")
 	)
 	(label "LED_B_pA_m"
-		(at 147.32 137.16 0)
+		(at 147.32 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4999,7 +4999,7 @@
 		(uuid "cbdc22b1-2cab-44c9-8302-a6fd5c64988c")
 	)
 	(label "LED_A_pA_c"
-		(at 119.38 132.08 180)
+		(at 119.38 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5009,7 +5009,7 @@
 		(uuid "cd7bc88f-fcbe-4e68-a2af-06e830ebb3ff")
 	)
 	(label "LED_B_pK_m"
-		(at 147.32 139.7 0)
+		(at 147.32 137.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5019,7 +5019,7 @@
 		(uuid "d7dd7ddc-8edd-430c-a133-8dfa1f8d90c6")
 	)
 	(label "LED_A_pK_c"
-		(at 119.38 134.62 180)
+		(at 119.38 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5029,7 +5029,7 @@
 		(uuid "efb9d768-277e-4d28-ab55-993c16b99e38")
 	)
 	(label "LED_A_pA_m"
-		(at 147.32 132.08 0)
+		(at 147.32 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
