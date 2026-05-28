@@ -552,6 +552,12 @@
       "-5V": "rgb(168, 168, 0)"
     },
     "netclass_assignments": {
+      "+5V": [
+        "Power"
+      ],
+      "-5V": [
+        "Power"
+      ],
       "Net-(D1-A)": [
         "Power"
       ],
