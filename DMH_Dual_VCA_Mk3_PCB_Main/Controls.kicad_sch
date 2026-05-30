@@ -3926,7 +3926,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 63.5 76.2 0)
 		(mirror x)
-		(unit 3)
+		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4043,7 +4043,7 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
-					(unit 3)
+					(unit 1)
 				)
 			)
 		)
@@ -4644,7 +4644,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 165.1 76.2 0)
 		(mirror x)
-		(unit 4)
+		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4761,7 +4761,7 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
-					(unit 4)
+					(unit 3)
 				)
 			)
 		)
@@ -5381,7 +5381,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 63.5 38.1 0)
 		(mirror x)
-		(unit 1)
+		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5488,7 +5488,7 @@
 			(project "DMH_Dual_VCA_Mk3_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/aca37be5-e58c-41bf-b28c-79389d66daa4"
 					(reference "U9")
-					(unit 1)
+					(unit 4)
 				)
 			)
 		)
@@ -6262,7 +6262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 165.1 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7401,7 +7401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 63.5 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7953,7 +7953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 165.1 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8294,7 +8294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal"
 			(at 63.5 63.5 0)
 			(hide yes)
 			(show_name no)

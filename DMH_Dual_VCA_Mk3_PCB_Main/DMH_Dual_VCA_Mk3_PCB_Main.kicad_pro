@@ -60,7 +60,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_over_copper|76166666|116335771|7c5c31cf-0528-49a2-9a53-3bcac5fec085|c5c14627-9683-45e0-8362-936d162bd8b8",
+          ""
+        ],
+        [
+          "silk_over_copper|76166666|94335771|e7e1f737-c795-448b-9931-31478d5e1b91|1519da00-28bc-45c1-b000-c7086441a986",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -140,7 +149,7 @@
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
-        "min_silk_clearance": 0.15,
+        "min_silk_clearance": 0.14,
         "min_text_height": 1.0,
         "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.3,
@@ -536,8 +545,19 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
+    "net_colors": {
+      "+12V": "rgb(255, 0, 0)",
+      "+5V": "rgb(129, 0, 248)",
+      "-12V": "rgb(0, 255, 0)",
+      "-5V": "rgb(168, 168, 0)"
+    },
     "netclass_assignments": {
+      "+5V": [
+        "Power"
+      ],
+      "-5V": [
+        "Power"
+      ],
       "Net-(D1-A)": [
         "Power"
       ],
@@ -722,7 +742,7 @@
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J21,J24",
     "variants": []
   },
   "sheets": [

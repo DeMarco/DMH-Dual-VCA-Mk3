@@ -8997,12 +8997,12 @@
 		(uuid "0826a550-65e6-4125-aa79-592b15084aa8")
 	)
 	(label "Output_A_N_m"
-		(at 29.21 264.16 180)
+		(at 46.99 269.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "089142b9-3aa6-4ef5-b34c-9f31ec0531ae")
 	)
@@ -9047,12 +9047,12 @@
 		(uuid "1c43d6c1-cb33-4269-ad13-fac388b63ac1")
 	)
 	(label "Input_B_N_m"
-		(at 46.99 269.24 0)
+		(at 29.21 264.16 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "1dcd3684-2a2f-4ab7-8c87-15e8c52fe2ef")
 	)
@@ -9607,12 +9607,12 @@
 		(uuid "b532b187-33f4-478f-9df6-0069ebab4eb2")
 	)
 	(label "Output_B_N_m"
-		(at 46.99 266.7 0)
+		(at 29.21 269.24 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "bc6b4261-1eda-4a29-a6ce-54f97e266c1b")
 	)
@@ -9657,7 +9657,7 @@
 		(uuid "c78dedcd-ccc4-4294-b26f-5045654fa1e0")
 	)
 	(label "CV_In_B2_N_m"
-		(at 46.99 261.62 0)
+		(at 46.99 266.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9697,12 +9697,12 @@
 		(uuid "d2852910-854c-43c2-b400-9e6e1fab1116")
 	)
 	(label "CV_In_A2_N_m"
-		(at 29.21 269.24 180)
+		(at 46.99 261.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d2aeaa23-4a31-49c3-8a10-95efea5ad9e4")
 	)
@@ -10127,7 +10127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 101.6 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -10759,7 +10759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 101.6 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -10784,6 +10784,16 @@
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 101.6 170.18 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 101.6 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12398,7 +12408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 76.2 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -12421,6 +12431,17 @@
 			)
 		)
 		(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
+			(at 76.2 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
 			(at 76.2 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -12851,7 +12872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "378fbc25-d575-494c-b140-cf3f43057015")
-		(property "Reference" "J10"
+		(property "Reference" "J200"
 			(at 38.1 255.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12937,7 +12958,7 @@
 		(instances
 			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(reference "J10")
+					(reference "J200")
 					(unit 1)
 				)
 			)
@@ -14592,7 +14613,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6027763d-436c-43f6-9c99-bf29cc28c767")
-		(property "Reference" "J17"
+		(property "Reference" "J100"
 			(at 190.5 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14678,7 +14699,7 @@
 		(instances
 			(project "DMH_Dual_VCA_Mk3_PCB_Controls"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(reference "J17")
+					(reference "J100")
 					(unit 1)
 				)
 			)
