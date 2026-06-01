@@ -18371,7 +18371,7 @@
 				)
 			)
 		)
-		(property "Function" "CV Pan/Tremolo"
+		(property "Function" "CV P/T"
 			(at 24.765 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
