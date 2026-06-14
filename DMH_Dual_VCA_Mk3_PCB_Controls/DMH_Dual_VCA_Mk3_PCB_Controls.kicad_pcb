@@ -3343,7 +3343,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
-			(at 3.81 -2.12 90)
+			(at 3.81 2.12 90)
 			(layer "F.SilkS")
 			(uuid "f278b203-dd0e-426f-b2b7-5a4fe59a0ecc")
 			(effects
@@ -3354,7 +3354,7 @@
 			)
 		)
 		(property "Value" "ZPD4V7"
-			(at 3.81 2.12 90)
+			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "a341434c-6256-460c-b6c2-004b66631952")
 			(effects
@@ -3621,7 +3621,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 3.81 -2.12 90)
+			(at 3.81 2.12 90)
 			(layer "F.SilkS")
 			(uuid "9e8d005a-7875-469b-9299-88e2f96883b2")
 			(effects
@@ -3632,7 +3632,7 @@
 			)
 		)
 		(property "Value" "ZPD4V7"
-			(at 3.81 2.12 90)
+			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "99702d1d-7759-4ffe-8450-85bd47a4645f")
 			(effects
