@@ -36279,7 +36279,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14,0700 mm"
+		(gr_text "14.0700 mm"
 			(at 81.405 123.95 0)
 			(layer "Dwgs.User")
 			(uuid "1846c624-8a9a-410f-bc2e-c6a6f8a2d050")
@@ -36316,7 +36316,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14,0700 mm"
+		(gr_text "14.0700 mm"
 			(at 81.405 137.15 0)
 			(layer "Dwgs.User")
 			(uuid "18504fe5-d056-4ebe-94ac-010296ce1bbf")
@@ -36353,7 +36353,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14,0700 mm"
+		(gr_text "14.0700 mm"
 			(at 81.405 110.75 0)
 			(layer "Dwgs.User")
 			(uuid "26e4d170-010e-4247-8ce9-63a59611a029")
@@ -36390,7 +36390,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14,0700 mm"
+		(gr_text "14.0700 mm"
 			(at 81.405 150.35 0)
 			(layer "Dwgs.User")
 			(uuid "34dad89b-781c-48ad-9f5e-ab6b621240b9")
@@ -36427,7 +36427,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13,1000 mm"
+		(gr_text "13.1000 mm"
 			(at 73.15 146.95 90)
 			(layer "Dwgs.User")
 			(uuid "3f93284f-9895-47ee-8334-c4c93ee6e466")
@@ -36464,7 +36464,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13,1000 mm"
+		(gr_text "13.1000 mm"
 			(at 73.15 107.35 90)
 			(layer "Dwgs.User")
 			(uuid "57774915-7f8d-4ceb-a9df-0699cf74a463")
@@ -36501,7 +36501,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,0500 mm"
+		(gr_text "5.0500 mm"
 			(at 64.165 137.09 0)
 			(layer "Dwgs.User")
 			(uuid "7679b988-6b29-4d60-92d6-ea023cf1df00")
@@ -36538,7 +36538,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13,1000 mm"
+		(gr_text "13.1000 mm"
 			(at 73.15 133.75 90)
 			(layer "Dwgs.User")
 			(uuid "8b7c58f7-91b1-458c-bf8f-5996af6ee66b")
@@ -36575,7 +36575,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,0500 mm"
+		(gr_text "5.0500 mm"
 			(at 64.165 150.29 0)
 			(layer "Dwgs.User")
 			(uuid "8df3453c-a6ac-4cdb-8bb5-c9e521be78c1")
@@ -36612,7 +36612,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13,1000 mm"
+		(gr_text "13.1000 mm"
 			(at 73.15 120.55 90)
 			(layer "Dwgs.User")
 			(uuid "b0af30dc-15b2-448a-bd4d-96c7a81f28e1")
@@ -36649,7 +36649,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,0500 mm"
+		(gr_text "5.0500 mm"
 			(at 64.165 110.69 0)
 			(layer "Dwgs.User")
 			(uuid "e22a3997-9056-4cc2-af8b-6af095bfc454")
@@ -36686,7 +36686,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,0500 mm"
+		(gr_text "5.0500 mm"
 			(at 64.165 123.89 0)
 			(layer "Dwgs.User")
 			(uuid "ff0a49a8-1abf-441e-8fce-db0cdb2355ed")
@@ -41563,28 +41563,52 @@
 		(uuid "c27f0a21-eb4b-43b2-a725-ba368f31df81")
 	)
 	(segment
-		(start 65.5 160.64)
-		(end 70.44 155.7)
+		(start 69.2 155.3)
+		(end 77.4525 155.3)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(J200-Pin_2)")
-		(uuid "65caa735-ac74-4464-97f1-5514c04bbe7b")
+		(net "Net-(J200-Pin_3)")
+		(uuid "0c60c313-6d5f-4170-8f81-8910e945a863")
 	)
 	(segment
-		(start 70.44 155.7)
-		(end 75.3125 155.7)
+		(start 61.563654 156.71)
+		(end 67.79 156.71)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(J200-Pin_2)")
-		(uuid "6e77b42f-ed60-4615-a001-abffc9c67334")
+		(net "Net-(J200-Pin_3)")
+		(uuid "2cceeea7-eff2-41f1-bf26-77e942245157")
 	)
 	(segment
-		(start 75.3125 155.7)
-		(end 76.96 157.3475)
+		(start 77.4525 155.3)
+		(end 79.5 157.3475)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(J200-Pin_2)")
-		(uuid "d6acbe15-c439-42cb-8d4a-5795b3536057")
+		(net "Net-(J200-Pin_3)")
+		(uuid "6061a567-feba-4553-8214-4f6b7e724668")
+	)
+	(segment
+		(start 58.1 160.64)
+		(end 58.1 160.173654)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(J200-Pin_3)")
+		(uuid "caadac04-92a3-494b-a8c4-223a62a569c4")
+	)
+	(segment
+		(start 67.79 156.71)
+		(end 69.2 155.3)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(J200-Pin_3)")
+		(uuid "e3c125d3-0fe2-4218-a4b1-0e3009d483c9")
+	)
+	(segment
+		(start 58.1 160.173654)
+		(end 61.563654 156.71)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(J200-Pin_3)")
+		(uuid "ed618057-900c-4107-a1c3-adb76173defd")
 	)
 	(segment
 		(start 60.51 129.9)
@@ -42251,52 +42275,28 @@
 		(uuid "c6ac1119-73d5-4fb2-b530-d3e7108b0a5c")
 	)
 	(segment
-		(start 69.2 155.3)
-		(end 77.4525 155.3)
+		(start 65.5 160.64)
+		(end 70.44 155.7)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(J200-Pin_3)")
-		(uuid "0c60c313-6d5f-4170-8f81-8910e945a863")
+		(net "Net-(J200-Pin_2)")
+		(uuid "65caa735-ac74-4464-97f1-5514c04bbe7b")
 	)
 	(segment
-		(start 61.563654 156.71)
-		(end 67.79 156.71)
+		(start 70.44 155.7)
+		(end 75.3125 155.7)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(J200-Pin_3)")
-		(uuid "2cceeea7-eff2-41f1-bf26-77e942245157")
+		(net "Net-(J200-Pin_2)")
+		(uuid "6e77b42f-ed60-4615-a001-abffc9c67334")
 	)
 	(segment
-		(start 77.4525 155.3)
-		(end 79.5 157.3475)
+		(start 75.3125 155.7)
+		(end 76.96 157.3475)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(J200-Pin_3)")
-		(uuid "6061a567-feba-4553-8214-4f6b7e724668")
-	)
-	(segment
-		(start 58.1 160.64)
-		(end 58.1 160.173654)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J200-Pin_3)")
-		(uuid "caadac04-92a3-494b-a8c4-223a62a569c4")
-	)
-	(segment
-		(start 67.79 156.71)
-		(end 69.2 155.3)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J200-Pin_3)")
-		(uuid "e3c125d3-0fe2-4218-a4b1-0e3009d483c9")
-	)
-	(segment
-		(start 58.1 160.173654)
-		(end 61.563654 156.71)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J200-Pin_3)")
-		(uuid "ed618057-900c-4107-a1c3-adb76173defd")
+		(net "Net-(J200-Pin_2)")
+		(uuid "d6acbe15-c439-42cb-8d4a-5795b3536057")
 	)
 	(segment
 		(start 70.495 62.685)

@@ -9112,7 +9112,7 @@
 			)
 		)
 	)
-	(gr_text "Mk3.0 - XXXXX 2026"
+	(gr_text "Mk3.0 - June 2026"
 		(at 75 222.95 0)
 		(layer "B.SilkS")
 		(uuid "ac30eae4-e4ef-470c-912c-06865a4e395c")
