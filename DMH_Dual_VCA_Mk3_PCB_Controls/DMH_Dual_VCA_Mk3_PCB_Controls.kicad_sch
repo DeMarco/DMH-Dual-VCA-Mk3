@@ -4803,6 +4803,144 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:-VDC"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "-VDC"
+				(at 0 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"-VDC\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "-VDC_0_1"
+				(polyline
+					(pts
+						(xy -1.143 3.175) (xy 1.143 3.175)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 3.175)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "-VDC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -12564,7 +12702,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+VDC")
+		(lib_id "power:-VDC")
 		(at 116.84 233.68 180)
 		(unit 1)
 		(body_style 1)
@@ -12587,13 +12725,14 @@
 			)
 		)
 		(property "Value" "-5V"
-			(at 116.84 241.3 0)
+			(at 120.65 236.2834 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -12618,7 +12757,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+		(property "Description" "Power symbol creates a global label with name \"-VDC\""
 			(at 116.84 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -14312,13 +14451,13 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+VDC")
+		(lib_id "power:-VDC")
 		(at 127 256.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14335,13 +14474,14 @@
 			)
 		)
 		(property "Value" "-5V"
-			(at 127 248.92 0)
+			(at 130.81 253.9364 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -14366,7 +14506,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+		(property "Description" "Power symbol creates a global label with name \"-VDC\""
 			(at 127 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -17722,13 +17862,13 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+VDC")
+		(lib_id "power:-VDC")
 		(at 78.74 233.68 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17745,13 +17885,14 @@
 			)
 		)
 		(property "Value" "-5V"
-			(at 78.74 241.3 0)
+			(at 82.55 236.2834 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -17776,7 +17917,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+		(property "Description" "Power symbol creates a global label with name \"-VDC\""
 			(at 78.74 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -18600,13 +18741,13 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+VDC")
+		(lib_id "power:-VDC")
 		(at 269.24 190.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18623,13 +18764,14 @@
 			)
 		)
 		(property "Value" "-5V"
-			(at 269.24 182.88 0)
+			(at 273.05 187.8964 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -18654,7 +18796,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+		(property "Description" "Power symbol creates a global label with name \"-VDC\""
 			(at 269.24 190.5 0)
 			(hide yes)
 			(show_name no)

@@ -8688,7 +8688,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/a22ffe63-c828-4cc5-a273-a14909e3d121")
+		(path "/91fe1e13-df3b-40e7-a6bc-fc4307383267")
 		(sheetname "/")
 		(sheetfile "DMH_Dual_VCA_Mk3_PCB_Main.kicad_sch")
 		(units
@@ -18660,7 +18660,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/dd9d3811-6b0c-4647-9d78-6b7313c430d7")
+		(path "/e7916939-6db5-4915-be92-28a2c77216fa")
 		(sheetname "/")
 		(sheetfile "DMH_Dual_VCA_Mk3_PCB_Main.kicad_sch")
 		(units
@@ -36279,7 +36279,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14.0700 mm"
+		(gr_text "14,0700 mm"
 			(at 81.405 123.95 0)
 			(layer "Dwgs.User")
 			(uuid "1846c624-8a9a-410f-bc2e-c6a6f8a2d050")
@@ -36316,7 +36316,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14.0700 mm"
+		(gr_text "14,0700 mm"
 			(at 81.405 137.15 0)
 			(layer "Dwgs.User")
 			(uuid "18504fe5-d056-4ebe-94ac-010296ce1bbf")
@@ -36353,7 +36353,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14.0700 mm"
+		(gr_text "14,0700 mm"
 			(at 81.405 110.75 0)
 			(layer "Dwgs.User")
 			(uuid "26e4d170-010e-4247-8ce9-63a59611a029")
@@ -36390,7 +36390,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "14.0700 mm"
+		(gr_text "14,0700 mm"
 			(at 81.405 150.35 0)
 			(layer "Dwgs.User")
 			(uuid "34dad89b-781c-48ad-9f5e-ab6b621240b9")
@@ -36427,7 +36427,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13.1000 mm"
+		(gr_text "13,1000 mm"
 			(at 73.15 146.95 90)
 			(layer "Dwgs.User")
 			(uuid "3f93284f-9895-47ee-8334-c4c93ee6e466")
@@ -36464,7 +36464,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13.1000 mm"
+		(gr_text "13,1000 mm"
 			(at 73.15 107.35 90)
 			(layer "Dwgs.User")
 			(uuid "57774915-7f8d-4ceb-a9df-0699cf74a463")
@@ -36501,7 +36501,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5.0500 mm"
+		(gr_text "5,0500 mm"
 			(at 64.165 137.09 0)
 			(layer "Dwgs.User")
 			(uuid "7679b988-6b29-4d60-92d6-ea023cf1df00")
@@ -36538,7 +36538,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13.1000 mm"
+		(gr_text "13,1000 mm"
 			(at 73.15 133.75 90)
 			(layer "Dwgs.User")
 			(uuid "8b7c58f7-91b1-458c-bf8f-5996af6ee66b")
@@ -36575,7 +36575,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5.0500 mm"
+		(gr_text "5,0500 mm"
 			(at 64.165 150.29 0)
 			(layer "Dwgs.User")
 			(uuid "8df3453c-a6ac-4cdb-8bb5-c9e521be78c1")
@@ -36612,7 +36612,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13.1000 mm"
+		(gr_text "13,1000 mm"
 			(at 73.15 120.55 90)
 			(layer "Dwgs.User")
 			(uuid "b0af30dc-15b2-448a-bd4d-96c7a81f28e1")
@@ -36649,7 +36649,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5.0500 mm"
+		(gr_text "5,0500 mm"
 			(at 64.165 110.69 0)
 			(layer "Dwgs.User")
 			(uuid "e22a3997-9056-4cc2-af8b-6af095bfc454")
@@ -36686,7 +36686,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5.0500 mm"
+		(gr_text "5,0500 mm"
 			(at 64.165 123.89 0)
 			(layer "Dwgs.User")
 			(uuid "ff0a49a8-1abf-441e-8fce-db0cdb2355ed")
