@@ -2686,7 +2686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_RD901F"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_RK09L"
 			(at 127 153.67 0)
 			(hide yes)
 			(show_name no)
