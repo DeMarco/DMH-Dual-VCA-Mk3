@@ -4376,7 +4376,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Vertical"
+		(property "Footprint" "SynthStuff:Potentiometer_Alps_RK09L_Double_Vertical"
 			(at 31.75 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -4938,7 +4938,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Double_Vertical"
+		(property "Footprint" "SynthStuff:Potentiometer_Alps_RK09L_Double_Vertical"
 			(at 82.55 177.8 0)
 			(hide yes)
 			(show_name no)
