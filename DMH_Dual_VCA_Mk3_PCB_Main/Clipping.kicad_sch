@@ -5,6 +5,7 @@
 	(uuid "2a0f5919-c325-4289-8187-a7cf89e1ec4e")
 	(paper "A4" portrait)
 	(title_block
+		(title "074-2 Dual VCA Mk3")
 		(company "DMH Instruments")
 		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
 	)
