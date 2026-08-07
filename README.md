@@ -50,6 +50,8 @@ I recommend soldering components in order of height: start with resistors and di
 
 ### Controls PCB
 
+<img width="527" height="797" alt="image" src="https://github.com/user-attachments/assets/e8e82e0c-a9f6-4f56-a9cb-09d3904c6845" />
+<img width="515" height="756" alt="image" src="https://github.com/user-attachments/assets/e16723be-c8fe-4bd9-9e01-461693c154dd" />
 
 
 ### VCA Submodule Mk1
@@ -73,3 +75,15 @@ t.b.w
 +12V --> 38mA
 
 -12V --> 38mA
+
+## Dimensions
+
+Height: 20cm
+
+Width: 5cm
+
+Depth: t.b.c.
+
+## Font
+
+For viewing/customizing in KiCad, I recommend downloading and installing the Nulshock font from Typodermic: https://typodermicfonts.com/nulshock/
