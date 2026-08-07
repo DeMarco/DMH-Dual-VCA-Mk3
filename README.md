@@ -27,13 +27,36 @@ Demo video: https://www.instagram.com/reel/DbrHDk0sg0o/?utm_source=ig_web_copy_l
 
 ## Schematic and Gerbers
 
+https://github.com/DeMarco/DMH-Dual-VCA-Mk3/blob/main/Schematic.pdf
 
+https://github.com/DeMarco/DMH-Dual-VCA-Mk3/tree/main/Gerbers
+
+https://github.com/DeMarco/DMH-Dual-VCA-Mk3/blob/main/DMH_Output_BoM.csv
+
+Please note the plug-in VCA submodules are part of another Repo. You need to make 4 of these to assemble the complete module:
+
+https://github.com/DeMarco/DMH-Submodules/tree/main/DMH_Submodule_VCA/Gerbers
 
 ## Assembly instructions
 
 Use 11mm long pin headers on the Main PCB to ensure connection with the pin sockets on the Controls PCB.
 Other than that, nothing special.
 I recommend soldering components in order of height: start with resistors and diodes, then move on to IC sockets, capacitors, transistors and connectors.
+
+### Main PCB
+
+<img width="426" height="696" alt="image" src="https://github.com/user-attachments/assets/1e165583-19a7-46e5-913c-8396688c8d91" />
+<img width="412" height="696" alt="image" src="https://github.com/user-attachments/assets/3ca2b1aa-054a-49d1-8ed9-beba8802cf90" />
+
+### Controls PCB
+
+
+
+### VCA Submodule Mk1
+
+<img width="577" height="667" alt="image" src="https://github.com/user-attachments/assets/36cc7be1-583c-42f3-91a5-03bc689d66e7" />
+<img width="542" height="657" alt="image" src="https://github.com/user-attachments/assets/5855f88c-2905-4e38-b24a-7be18a07f569" />
+
 
 ## Calibration
 
